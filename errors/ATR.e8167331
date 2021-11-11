@@ -1,0 +1,8 @@
+load compilers/gnu/7.3.0 environment
+load cuda 10.0 environment
+load python3 3.6.9 for Deep Learning environment (with numpy 1.15.1, Keras 2.2.5, scikit-learn 0.21.3, tensorflow-gpu 1.14.0, torch 1.2.0, more details: pip list)
+
+Loading python3-DL/torch/1.2.0-cuda10
+  Loading requirement: compilers/gnu/7.3.0 cuda/10.0
+/var/spool/slurm/job8167331/slurm_script: line 61: python36/bin/activate: No such file or directory
+slurmstepd: error: *** JOB 8167331 ON my349 CANCELLED AT 2021-03-25T03:01:39 ***

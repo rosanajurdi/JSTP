@@ -1,0 +1,1923 @@
+/home/2017011/reljur01/FBB_UNET/h5_files/FOLD_3
+model saved-0-10000
+tensor(0.3335)
+training on batch0.0 on epoch 0 with loss -0.016049005091190338 with evaluation : 0.33353960514068604
+model saved-0-10000
+tensor(0.3460)
+training on batch1.0 on epoch 0 with loss -0.016286266967654228 with evaluation : 0.33975353837013245
+model saved-0-10000
+tensor(0.3581)
+training on batch2.0 on epoch 0 with loss -0.03327488154172897 with evaluation : 0.34585389494895935
+model saved-0-10000
+tensor(0.3989)
+training on batch3.0 on epoch 0 with loss -0.030362572520971298 with evaluation : 0.35911399126052856
+model saved-0-10000
+tensor(0.4437)
+training on batch4.0 on epoch 0 with loss -0.06791705638170242 with evaluation : 0.376034677028656
+model saved-0-10000
+tensor(0.4474)
+training on batch5.0 on epoch 0 with loss -0.07120579481124878 with evaluation : 0.38792547583580017
+model saved-0-10000
+tensor(0.4620)
+training on batch6.0 on epoch 0 with loss -0.059767477214336395 with evaluation : 0.398508220911026
+model saved-0-10000
+tensor(0.4959)
+training on batch7.0 on epoch 0 with loss -0.06767097115516663 with evaluation : 0.4106760621070862
+model saved-0-10000
+tensor(0.4872)
+training on batch8.0 on epoch 0 with loss -0.04545336961746216 with evaluation : 0.41917717456817627
+model saved-0-10000
+tensor(0.5354)
+training on batch9.0 on epoch 0 with loss -0.08241745829582214 with evaluation : 0.43080076575279236
+model saved-0-10000
+tensor(0.4771)
+training on batch10.0 on epoch 0 with loss -0.06789615750312805 with evaluation : 0.43501052260398865
+model saved-0-10000
+tensor(0.4873)
+training on batch11.0 on epoch 0 with loss -0.03269929438829422 with evaluation : 0.4393719434738159
+model saved-0-10000
+tensor(0.5241)
+training on batch12.0 on epoch 0 with loss -0.11224094033241272 with evaluation : 0.4458896517753601
+model saved-0-10000
+tensor(0.5208)
+training on batch13.0 on epoch 0 with loss -0.07501988112926483 with evaluation : 0.4512418806552887
+model saved-0-10000
+tensor(0.5043)
+training on batch14.0 on epoch 0 with loss -0.047081753611564636 with evaluation : 0.4547761082649231
+model saved-0-10000
+tensor(0.5661)
+training on batch15.0 on epoch 0 with loss -0.1416708528995514 with evaluation : 0.4617310166358948
+model saved-0-10000
+tensor(0.5738)
+training on batch16.0 on epoch 0 with loss -0.10152149200439453 with evaluation : 0.4683227241039276
+model saved-0-10000
+tensor(0.4956)
+training on batch17.0 on epoch 0 with loss -0.05171050876379013 with evaluation : 0.4698357582092285
+model saved-0-10000
+tensor(0.5739)
+training on batch18.0 on epoch 0 with loss -0.12404569983482361 with evaluation : 0.47531378269195557
+model saved-0-10000
+tensor(0.5037)
+training on batch19.0 on epoch 0 with loss -0.052530139684677124 with evaluation : 0.47673535346984863
+model saved-0-10000
+tensor(0.5326)
+training on batch20.0 on epoch 0 with loss -0.07418803125619888 with evaluation : 0.4793958067893982
+model saved-0-10000
+tensor(0.5690)
+training on batch21.0 on epoch 0 with loss -0.14352597296237946 with evaluation : 0.4834707975387573
+model saved-0-10000
+tensor(0.5897)
+training on batch22.0 on epoch 0 with loss -0.13072040677070618 with evaluation : 0.4880892336368561
+model saved-0-10000
+tensor(0.5234)
+training on batch23.0 on epoch 0 with loss -0.10159894824028015 with evaluation : 0.489559531211853
+model saved-0-10000
+tensor(0.5301)
+training on batch24.0 on epoch 0 with loss -0.0860736146569252 with evaluation : 0.491179496049881
+model saved-0-10000
+tensor(0.5867)
+training on batch25.0 on epoch 0 with loss -0.13801896572113037 with evaluation : 0.4948534667491913
+model saved-0-10000
+tensor(0.5750)
+training on batch26.0 on epoch 0 with loss -0.12780708074569702 with evaluation : 0.4978208839893341
+model saved-0-10000
+tensor(0.5717)
+training on batch27.0 on epoch 0 with loss -0.12261131405830383 with evaluation : 0.5004576444625854
+model saved-0-10000
+tensor(0.5410)
+training on batch28.0 on epoch 0 with loss -0.131231889128685 with evaluation : 0.5018567442893982
+model saved-0-10000
+tensor(0.6273)
+training on batch29.0 on epoch 0 with loss -0.20324411988258362 with evaluation : 0.50603848695755
+model saved-0-10000
+tensor(0.5753)
+training on batch30.0 on epoch 0 with loss -0.13537020981311798 with evaluation : 0.508273184299469
+model saved-0-10000
+tensor(0.5154)
+training on batch31.0 on epoch 0 with loss -0.06156608834862709 with evaluation : 0.5084959268569946
+model saved-0-10000
+tensor(0.5593)
+training on batch32.0 on epoch 0 with loss -0.10382162034511566 with evaluation : 0.5100341439247131
+model saved-0-10000
+tensor(0.5459)
+training on batch33.0 on epoch 0 with loss -0.10460004210472107 with evaluation : 0.5110896825790405
+model saved-0-10000
+tensor(0.5387)
+training on batch34.0 on epoch 0 with loss -0.16016966104507446 with evaluation : 0.5118799209594727
+model saved-0-10000
+tensor(0.6047)
+training on batch35.0 on epoch 0 with loss -0.21068060398101807 with evaluation : 0.5144588351249695
+model saved-0-10000
+tensor(0.5361)
+training on batch36.0 on epoch 0 with loss -0.0861634910106659 with evaluation : 0.5150430798530579
+model saved-0-10000
+tensor(0.5156)
+training on batch37.0 on epoch 0 with loss -0.11336839199066162 with evaluation : 0.5150582790374756
+model saved-0-10000
+tensor(0.5153)
+training on batch38.0 on epoch 0 with loss -0.0520767942070961 with evaluation : 0.5150648951530457
+model saved-0-10000
+tensor(0.5775)
+training on batch39.0 on epoch 0 with loss -0.1699526607990265 with evaluation : 0.5166270136833191
+model saved-0-10000
+tensor(0.5515)
+training on batch40.0 on epoch 0 with loss -0.07039915025234222 with evaluation : 0.5174769759178162
+model saved-0-10000
+tensor(0.6053)
+training on batch41.0 on epoch 0 with loss -0.1950385570526123 with evaluation : 0.5195690989494324
+model saved-0-10000
+tensor(0.5267)
+training on batch42.0 on epoch 0 with loss -0.14773640036582947 with evaluation : 0.5197345614433289
+model saved-0-10000
+tensor(0.5399)
+training on batch43.0 on epoch 0 with loss -0.11222241818904877 with evaluation : 0.5201917290687561
+model saved-0-10000
+tensor(0.5296)
+training on batch44.0 on epoch 0 with loss -0.09156796336174011 with evaluation : 0.5204013586044312
+model saved-0-10000
+tensor(0.5622)
+training on batch45.0 on epoch 0 with loss -0.1399250626564026 with evaluation : 0.521309494972229
+model saved-0-10000
+tensor(0.5860)
+training on batch46.0 on epoch 0 with loss -0.14868460595607758 with evaluation : 0.5226864218711853
+model saved-0-10000
+tensor(0.5458)
+training on batch47.0 on epoch 0 with loss -0.10966789722442627 with evaluation : 0.5231671929359436
+model saved-0-10000
+tensor(0.5976)
+training on batch48.0 on epoch 0 with loss -0.15335698425769806 with evaluation : 0.5246856808662415
+model saved-0-10000
+tensor(0.6482)
+training on batch49.0 on epoch 0 with loss -0.1801535040140152 with evaluation : 0.5271562933921814
+model saved-0-10000
+tensor(0.5675)
+training on batch50.0 on epoch 0 with loss -0.11216729879379272 with evaluation : 0.5279468894004822
+model saved-0-10000
+tensor(0.5668)
+training on batch51.0 on epoch 0 with loss -0.157222718000412 with evaluation : 0.5286941528320312
+model saved-0-10000
+tensor(0.5653)
+training on batch52.0 on epoch 0 with loss -0.10708697885274887 with evaluation : 0.5293845534324646
+model saved-0-10000
+tensor(0.5692)
+training on batch53.0 on epoch 0 with loss -0.10805439949035645 with evaluation : 0.5301216840744019
+model saved-0-10000
+tensor(0.6435)
+training on batch54.0 on epoch 0 with loss -0.1756090223789215 with evaluation : 0.5321823954582214
+model saved-0-10000
+tensor(0.6788)
+training on batch55.0 on epoch 0 with loss -0.18726176023483276 with evaluation : 0.5347998142242432
+model saved-0-10000
+tensor(0.6441)
+training on batch56.0 on epoch 0 with loss -0.173970028758049 with evaluation : 0.5367177724838257
+model saved-0-10000
+tensor(0.5178)
+training on batch57.0 on epoch 0 with loss -0.08149076998233795 with evaluation : 0.5363917350769043
+model saved-0-10000
+tensor(0.5225)
+training on batch58.0 on epoch 0 with loss -0.16257788240909576 with evaluation : 0.5361557602882385
+model saved-0-10000
+tensor(0.5461)
+training on batch59.0 on epoch 0 with loss -0.12097130715847015 with evaluation : 0.5363218784332275
+model saved-0-10000
+tensor(0.5821)
+training on batch60.0 on epoch 0 with loss -0.23403231799602509 with evaluation : 0.5370728969573975
+model saved-0-10000
+tensor(0.5055)
+training on batch61.0 on epoch 0 with loss -0.11448444426059723 with evaluation : 0.5365639328956604
+model saved-0-10000
+tensor(0.5427)
+training on batch62.0 on epoch 0 with loss -0.1147632822394371 with evaluation : 0.5366615056991577
+model saved-0-10000
+tensor(0.5419)
+training on batch63.0 on epoch 0 with loss -0.13251593708992004 with evaluation : 0.5367435812950134
+model saved-0-10000
+tensor(0.5445)
+training on batch64.0 on epoch 0 with loss -0.16398386657238007 with evaluation : 0.5368629097938538
+model saved-0-10000
+tensor(0.5799)
+training on batch65.0 on epoch 0 with loss -0.1925627887248993 with evaluation : 0.5375152826309204
+model saved-0-10000
+tensor(0.4933)
+training on batch66.0 on epoch 0 with loss -0.028934041038155556 with evaluation : 0.5368547439575195
+model saved-0-10000
+tensor(0.5300)
+training on batch67.0 on epoch 0 with loss -0.09534341096878052 with evaluation : 0.5367536544799805
+model saved-0-10000
+tensor(0.4768)
+training on batch68.0 on epoch 0 with loss -0.08560159057378769 with evaluation : 0.5358848571777344
+model saved-0-10000
+tensor(0.5539)
+training on batch69.0 on epoch 0 with loss -0.11332494020462036 with evaluation : 0.5361419320106506
+model saved-0-10000
+tensor(0.7032)
+training on batch70.0 on epoch 0 with loss -0.2272970974445343 with evaluation : 0.5384945869445801
+model saved-0-10000
+tensor(0.5986)
+training on batch71.0 on epoch 0 with loss -0.1843714714050293 with evaluation : 0.5393287539482117
+model saved-0-10000
+tensor(0.5196)
+training on batch72.0 on epoch 0 with loss -0.09179383516311646 with evaluation : 0.5390589833259583
+model saved-0-10000
+tensor(0.5336)
+training on batch73.0 on epoch 0 with loss -0.09408275783061981 with evaluation : 0.538985550403595
+model saved-0-10000
+tensor(0.6593)
+training on batch74.0 on epoch 0 with loss -0.23402169346809387 with evaluation : 0.5405900478363037
+model saved-0-10000
+tensor(0.5634)
+training on batch75.0 on epoch 0 with loss -0.15174786746501923 with evaluation : 0.5408899188041687
+model saved-0-10000
+tensor(0.5694)
+training on batch76.0 on epoch 0 with loss -0.14027076959609985 with evaluation : 0.5412596464157104
+model saved-0-10000
+tensor(0.5249)
+training on batch77.0 on epoch 0 with loss -0.0684381052851677 with evaluation : 0.541049599647522
+model saved-0-10000
+tensor(0.5433)
+training on batch78.0 on epoch 0 with loss -0.10453512519598007 with evaluation : 0.5410777926445007
+model saved-0-10000
+tensor(0.4985)
+training on batch79.0 on epoch 0 with loss -0.12718549370765686 with evaluation : 0.5405457019805908
+model saved-0-10000
+tensor(0.5027)
+training on batch80.0 on epoch 0 with loss -0.0686149150133133 with evaluation : 0.5400784015655518
+model saved-0-10000
+tensor(0.5294)
+training on batch81.0 on epoch 0 with loss -0.11590278148651123 with evaluation : 0.5399483442306519
+model saved-0-10000
+tensor(0.5920)
+training on batch82.0 on epoch 0 with loss -0.15006931126117706 with evaluation : 0.5405753254890442
+model saved-0-10000
+tensor(0.5991)
+training on batch83.0 on epoch 0 with loss -0.1573372632265091 with evaluation : 0.541271984577179
+model saved-0-10000
+tensor(0.5349)
+training on batch84.0 on epoch 0 with loss -0.1293630748987198 with evaluation : 0.5411967635154724
+model saved-0-10000
+tensor(0.5893)
+training on batch85.0 on epoch 0 with loss -0.16941164433956146 with evaluation : 0.541756272315979
+model saved-0-10000
+tensor(0.6096)
+training on batch86.0 on epoch 0 with loss -0.148077130317688 with evaluation : 0.5425364375114441
+model saved-0-10000
+tensor(0.6434)
+training on batch87.0 on epoch 0 with loss -0.21855416893959045 with evaluation : 0.5436821579933167
+model saved-0-10000
+tensor(0.5714)
+training on batch88.0 on epoch 0 with loss -0.15593387186527252 with evaluation : 0.5439940690994263
+model saved-0-10000
+tensor(0.6061)
+training on batch89.0 on epoch 0 with loss -0.12257037311792374 with evaluation : 0.5446845293045044
+model saved-0-10000
+tensor(0.6219)
+training on batch90.0 on epoch 0 with loss -0.18254150450229645 with evaluation : 0.545533299446106
+model saved-0-10000
+tensor(0.6054)
+training on batch91.0 on epoch 0 with loss -0.18973034620285034 with evaluation : 0.5461838245391846
+model saved-0-10000
+tensor(0.5426)
+training on batch92.0 on epoch 0 with loss -0.07615038007497787 with evaluation : 0.5461447834968567
+model saved-0-10000
+tensor(0.5646)
+training on batch93.0 on epoch 0 with loss -0.1197405606508255 with evaluation : 0.5463414788246155
+model saved-0-10000
+tensor(0.5651)
+training on batch94.0 on epoch 0 with loss -0.10625484585762024 with evaluation : 0.5465394258499146
+model saved-0-10000
+tensor(0.5200)
+training on batch95.0 on epoch 0 with loss -0.047058604657649994 with evaluation : 0.5462629199028015
+model saved-0-10000
+tensor(0.6718)
+training on batch96.0 on epoch 0 with loss -0.086616151034832 with evaluation : 0.5475565791130066
+model saved-0-10000
+tensor(0.6331)
+training on batch97.0 on epoch 0 with loss -0.11491333693265915 with evaluation : 0.5484294295310974
+model saved-0-10000
+tensor(0.6086)
+training on batch98.0 on epoch 0 with loss -0.11327847838401794 with evaluation : 0.5490370392799377
+model saved-0-10000
+tensor(0.5697)
+training on batch99.0 on epoch 0 with loss -0.15554995834827423 with evaluation : 0.5492434501647949
+model saved-0-10000
+tensor(0.5717)
+training on batch100.0 on epoch 0 with loss -0.13417105376720428 with evaluation : 0.5494657158851624
+model saved-0-10000
+tensor(0.5509)
+training on batch101.0 on epoch 0 with loss -0.11897359788417816 with evaluation : 0.549479603767395
+model saved-0-10000
+tensor(0.5319)
+training on batch102.0 on epoch 0 with loss -0.10392559319734573 with evaluation : 0.5493086576461792
+model saved-0-10000
+tensor(0.5706)
+training on batch103.0 on epoch 0 with loss -0.14986740052700043 with evaluation : 0.5495136976242065
+model saved-0-10000
+tensor(0.6262)
+training on batch104.0 on epoch 0 with loss -0.19622394442558289 with evaluation : 0.5502436757087708
+model saved-0-10000
+tensor(0.6126)
+training on batch105.0 on epoch 0 with loss -0.15086841583251953 with evaluation : 0.5508319735527039
+model saved-0-10000
+tensor(0.5295)
+training on batch106.0 on epoch 0 with loss -0.10900850594043732 with evaluation : 0.550632655620575
+model saved-0-10000
+tensor(0.5896)
+training on batch107.0 on epoch 0 with loss -0.18949206173419952 with evaluation : 0.5509936809539795
+model saved-0-10000
+tensor(0.6711)
+training on batch108.0 on epoch 0 with loss -0.17851024866104126 with evaluation : 0.5520956516265869
+model saved-0-10000
+tensor(0.6346)
+training on batch109.0 on epoch 0 with loss -0.17905613780021667 with evaluation : 0.5528453588485718
+model saved-0-10000
+tensor(0.6082)
+training on batch110.0 on epoch 0 with loss -0.2601148188114166 with evaluation : 0.5533437132835388
+model saved-0-10000
+tensor(0.5407)
+training on batch111.0 on epoch 0 with loss -0.11816887557506561 with evaluation : 0.553230345249176
+model saved-0-10000
+tensor(0.5366)
+training on batch112.0 on epoch 0 with loss -0.08906403183937073 with evaluation : 0.5530834794044495
+model saved-0-10000
+tensor(0.5710)
+training on batch113.0 on epoch 0 with loss -0.13739429414272308 with evaluation : 0.5532408356666565
+model saved-0-10000
+tensor(0.6301)
+training on batch114.0 on epoch 0 with loss -0.25159338116645813 with evaluation : 0.5539093613624573
+model saved-0-10000
+tensor(0.4942)
+training on batch115.0 on epoch 0 with loss -0.09375789761543274 with evaluation : 0.5533944368362427
+model saved-0-10000
+tensor(0.5287)
+training on batch116.0 on epoch 0 with loss -0.11433650553226471 with evaluation : 0.5531832575798035
+model saved-0-10000
+tensor(0.6015)
+training on batch117.0 on epoch 0 with loss -0.21110135316848755 with evaluation : 0.5535929799079895
+model saved-0-10000
+tensor(0.5825)
+training on batch118.0 on epoch 0 with loss -0.13871288299560547 with evaluation : 0.5538362264633179
+model saved-0-10000
+tensor(0.5325)
+training on batch119.0 on epoch 0 with loss -0.09475710988044739 with evaluation : 0.5536581873893738
+model saved-0-10000
+tensor(0.5794)
+training on batch120.0 on epoch 0 with loss -0.1217232346534729 with evaluation : 0.5538705587387085
+model saved-0-10000
+tensor(0.5815)
+training on batch121.0 on epoch 0 with loss -0.1491018831729889 with evaluation : 0.5540972352027893
+model saved-0-10000
+tensor(0.5676)
+training on batch122.0 on epoch 0 with loss -0.11634412407875061 with evaluation : 0.5542070865631104
+model saved-0-10000
+tensor(0.5867)
+training on batch123.0 on epoch 0 with loss -0.16161192953586578 with evaluation : 0.5544688105583191
+model saved-0-10000
+tensor(0.6129)
+training on batch124.0 on epoch 0 with loss -0.19396421313285828 with evaluation : 0.5549363493919373
+model saved-0-10000
+tensor(0.5584)
+training on batch125.0 on epoch 0 with loss -0.13256652653217316 with evaluation : 0.5549641847610474
+model saved-0-10000
+tensor(0.5527)
+training on batch126.0 on epoch 0 with loss -0.12354594469070435 with evaluation : 0.55494624376297
+model saved-0-10000
+tensor(0.5883)
+training on batch127.0 on epoch 0 with loss -0.1410684585571289 with evaluation : 0.5552065372467041
+model saved-0-10000
+tensor(0.6034)
+training on batch128.0 on epoch 0 with loss -0.20108270645141602 with evaluation : 0.5555798411369324
+model saved-0-10000
+tensor(0.6997)
+training on batch129.0 on epoch 0 with loss -0.26664620637893677 with evaluation : 0.5566881895065308
+model saved-0-10000
+tensor(0.5192)
+training on batch130.0 on epoch 0 with loss -0.10777167975902557 with evaluation : 0.5564019680023193
+model saved-0-10000
+tensor(0.5546)
+training on batch131.0 on epoch 0 with loss -0.0801788941025734 with evaluation : 0.5563883781433105
+model saved-0-10000
+tensor(0.5355)
+training on batch132.0 on epoch 0 with loss -0.1351039707660675 with evaluation : 0.5562312006950378
+model saved-0-10000
+tensor(0.5214)
+training on batch133.0 on epoch 0 with loss -0.12127889692783356 with evaluation : 0.5559713840484619
+model saved-0-10000
+tensor(0.5457)
+training on batch134.0 on epoch 0 with loss -0.13163316249847412 with evaluation : 0.5558956861495972
+model saved-0-10000
+tensor(0.7331)
+training on batch135.0 on epoch 0 with loss -0.25730380415916443 with evaluation : 0.5571990013122559
+model saved-0-10000
+tensor(0.5129)
+training on batch136.0 on epoch 0 with loss -0.12936776876449585 with evaluation : 0.5568756461143494
+model saved-0-10000
+tensor(0.6359)
+training on batch137.0 on epoch 0 with loss -0.22665876150131226 with evaluation : 0.5574485659599304
+model saved-0-10000
+tensor(0.6621)
+training on batch138.0 on epoch 0 with loss -0.22975221276283264 with evaluation : 0.5582014322280884
+model saved-0-10000
+tensor(0.6683)
+training on batch139.0 on epoch 0 with loss -0.24356797337532043 with evaluation : 0.5589878559112549
+model saved-0-10000
+tensor(0.5442)
+training on batch140.0 on epoch 0 with loss -0.09440919756889343 with evaluation : 0.558883011341095
+model saved-0-10000
+tensor(0.6622)
+training on batch141.0 on epoch 0 with loss -0.2334933876991272 with evaluation : 0.559610903263092
+model saved-0-10000
+tensor(0.6009)
+training on batch142.0 on epoch 0 with loss -0.10098984837532043 with evaluation : 0.5598999261856079
+model saved-0-10000
+tensor(0.6777)
+training on batch143.0 on epoch 0 with loss -0.2451055943965912 with evaluation : 0.5607178807258606
+model saved-0-10000
+tensor(0.5845)
+training on batch144.0 on epoch 0 with loss -0.18616735935211182 with evaluation : 0.5608820915222168
+model saved-0-10000
+tensor(0.6405)
+training on batch145.0 on epoch 0 with loss -0.19136351346969604 with evaluation : 0.5614275336265564
+model saved-0-10000
+tensor(0.5932)
+training on batch146.0 on epoch 0 with loss -0.1199481263756752 with evaluation : 0.5616437196731567
+model saved-0-10000
+tensor(0.6391)
+training on batch147.0 on epoch 0 with loss -0.2145325094461441 with evaluation : 0.5621672868728638
+model saved-0-10000
+tensor(0.5320)
+training on batch148.0 on epoch 0 with loss -0.0945000946521759 with evaluation : 0.5619650483131409
+model saved-0-10000
+tensor(0.5839)
+training on batch149.0 on epoch 0 with loss -0.1941506266593933 with evaluation : 0.5621114373207092
+model saved-0-10000
+tensor(0.6161)
+training on batch150.0 on epoch 0 with loss -0.21166278421878815 with evaluation : 0.5624690651893616
+model saved-0-10000
+tensor(0.5075)
+training on batch151.0 on epoch 0 with loss -0.05194592475891113 with evaluation : 0.5621076822280884
+model saved-0-10000
+tensor(0.6757)
+training on batch152.0 on epoch 0 with loss -0.3067912757396698 with evaluation : 0.5628501772880554
+model saved-0-10000
+tensor(0.5980)
+training on batch153.0 on epoch 0 with loss -0.21894335746765137 with evaluation : 0.5630782246589661
+model saved-0-10000
+tensor(0.5954)
+training on batch154.0 on epoch 0 with loss -0.13444429636001587 with evaluation : 0.563286542892456
+model saved-0-10000
+tensor(0.4952)
+training on batch155.0 on epoch 0 with loss -0.06006372720003128 with evaluation : 0.562849760055542
+model saved-0-10000
+tensor(0.7774)
+training on batch156.0 on epoch 0 with loss -0.26321953535079956 with evaluation : 0.5642162561416626
+model saved-0-10000
+tensor(0.6092)
+training on batch157.0 on epoch 0 with loss -0.14669722318649292 with evaluation : 0.5645012259483337
+model saved-0-10000
+tensor(0.6411)
+training on batch158.0 on epoch 0 with loss -0.2154977023601532 with evaluation : 0.5649832487106323
+model saved-0-10000
+tensor(0.6028)
+training on batch159.0 on epoch 0 with loss -0.2065790891647339 with evaluation : 0.5652197599411011
+model saved-0-10000
+tensor(0.5547)
+training on batch160.0 on epoch 0 with loss -0.09814044833183289 with evaluation : 0.5651542544364929
+model saved-0-10000
+tensor(0.6052)
+training on batch161.0 on epoch 0 with loss -0.22606328129768372 with evaluation : 0.565401554107666
+model saved-0-10000
+tensor(0.6911)
+training on batch162.0 on epoch 0 with loss -0.2459844946861267 with evaluation : 0.5661728978157043
+model saved-0-10000
+tensor(0.5177)
+training on batch163.0 on epoch 0 with loss -0.0666227787733078 with evaluation : 0.5658770203590393
+model saved-0-10000
+tensor(0.5874)
+training on batch164.0 on epoch 0 with loss -0.14435267448425293 with evaluation : 0.566007137298584
+model saved-0-10000
+tensor(0.6558)
+training on batch165.0 on epoch 0 with loss -0.2205355167388916 with evaluation : 0.5665481686592102
+model saved-0-10000
+validating on batch0.0 on epoch 0 with loss -0.29209259152412415 with evaluation : 0.6633484959602356
+model saved-0-10000
+validating on batch1.0 on epoch 0 with loss -0.3142813742160797 with evaluation : 0.6753021478652954
+model saved-0-10000
+validating on batch2.0 on epoch 0 with loss -0.2079741656780243 with evaluation : 0.6595123410224915
+model saved-0-10000
+validating on batch3.0 on epoch 0 with loss -0.19795852899551392 with evaluation : 0.6390558481216431
+model saved-0-10000
+validating on batch4.0 on epoch 0 with loss -0.3497762680053711 with evaluation : 0.646544337272644
+model saved-0-10000
+validating on batch5.0 on epoch 0 with loss -0.29366129636764526 with evaluation : 0.6495518684387207
+model saved-0-10000
+validating on batch6.0 on epoch 0 with loss -0.3284759521484375 with evaluation : 0.6529287099838257
+model saved-0-10000
+validating on batch7.0 on epoch 0 with loss -0.23950788378715515 with evaluation : 0.6487563848495483
+model saved-0-10000
+validating on batch8.0 on epoch 0 with loss -0.2801780104637146 with evaluation : 0.6446564197540283
+model saved-0-10000
+validating on batch9.0 on epoch 0 with loss -0.2396155744791031 with evaluation : 0.6455724239349365
+model saved-0-10000
+validating on batch10.0 on epoch 0 with loss -0.3198218047618866 with evaluation : 0.6390502452850342
+model saved-0-10000
+validating on batch11.0 on epoch 0 with loss -0.3254137337207794 with evaluation : 0.6429438591003418
+model saved-0-10000
+validating on batch12.0 on epoch 0 with loss -0.2591688930988312 with evaluation : 0.6370316743850708
+model saved-0-10000
+validating on batch13.0 on epoch 0 with loss -0.21670739352703094 with evaluation : 0.6320783495903015
+model saved-0-10000
+validating on batch14.0 on epoch 0 with loss -0.16357284784317017 with evaluation : 0.6279829740524292
+model saved-0-10000
+validating on batch15.0 on epoch 0 with loss -0.26871925592422485 with evaluation : 0.6310197710990906
+model saved-0-10000
+validating on batch16.0 on epoch 0 with loss -0.30268245935440063 with evaluation : 0.6344221830368042
+model saved-0-10000
+validating on batch17.0 on epoch 0 with loss -0.2247139811515808 with evaluation : 0.6330628395080566
+model saved-0-10000
+validating on batch18.0 on epoch 0 with loss -0.18004262447357178 with evaluation : 0.6297197937965393
+model saved-0-10000
+validating on batch19.0 on epoch 0 with loss -0.2146609127521515 with evaluation : 0.6285526752471924
+model saved-0-10000
+validating on batch20.0 on epoch 0 with loss -0.15096955001354218 with evaluation : 0.6257187128067017
+model saved-0-10000
+validating on batch21.0 on epoch 0 with loss -0.20500721037387848 with evaluation : 0.6246671080589294
+model saved-0-10000
+validating on batch22.0 on epoch 0 with loss -0.25996163487434387 with evaluation : 0.6248937249183655
+model saved-0-10000
+validating on batch23.0 on epoch 0 with loss -0.2758191227912903 with evaluation : 0.6239370107650757
+model saved-0-10000
+validating on batch24.0 on epoch 0 with loss -0.3160049617290497 with evaluation : 0.6262156367301941
+model saved-0-10000
+validating on batch25.0 on epoch 0 with loss -0.33259469270706177 with evaluation : 0.6289893388748169
+model saved-0-10000
+validating on batch26.0 on epoch 0 with loss -0.2826927900314331 with evaluation : 0.6268706321716309
+model saved-0-10000
+validating on batch27.0 on epoch 0 with loss -0.14614425599575043 with evaluation : 0.6244713664054871
+model saved-0-10000
+validating on batch28.0 on epoch 0 with loss -0.29046961665153503 with evaluation : 0.6240014433860779
+model saved-0-10000
+validating on batch29.0 on epoch 0 with loss -0.3153592348098755 with evaluation : 0.6257755756378174
+model saved-0-10000
+validating on batch30.0 on epoch 0 with loss -0.28986984491348267 with evaluation : 0.6249767541885376
+model saved-0-10000
+validating on batch31.0 on epoch 0 with loss -0.2207808792591095 with evaluation : 0.6266748905181885
+model saved-0-10000
+validating on batch32.0 on epoch 0 with loss -0.26190847158432007 with evaluation : 0.6277036666870117
+model saved-0-10000
+validating on batch33.0 on epoch 0 with loss -0.25368818640708923 with evaluation : 0.6278602480888367
+model saved-0-10000
+validating on batch34.0 on epoch 0 with loss -0.15733569860458374 with evaluation : 0.6272425651550293
+model saved-0-10000
+validating on batch35.0 on epoch 0 with loss -0.2697864770889282 with evaluation : 0.6265011429786682
+model saved-0-10000
+validating on batch36.0 on epoch 0 with loss -0.266119122505188 with evaluation : 0.6268460750579834
+model saved-0-10000
+validating on batch37.0 on epoch 0 with loss -0.2178727239370346 with evaluation : 0.6261928677558899
+model saved-0-10000
+validating on batch38.0 on epoch 0 with loss -0.2464793473482132 with evaluation : 0.6263333559036255
+model saved-0-10000
+validating on batch39.0 on epoch 0 with loss -0.29102766513824463 with evaluation : 0.6276674866676331
+model saved-0-10000
+validating on batch40.0 on epoch 0 with loss -0.2891487181186676 with evaluation : 0.6281133890151978
+model saved-0-10000
+validating on batch41.0 on epoch 0 with loss -0.32602953910827637 with evaluation : 0.6307715773582458
+model saved-0-10000
+validating on batch42.0 on epoch 0 with loss -0.29566800594329834 with evaluation : 0.6320685744285583
+model saved-0-10000
+validating on batch43.0 on epoch 0 with loss -0.2866472005844116 with evaluation : 0.6322861909866333
+model saved-0-10000
+validating on batch44.0 on epoch 0 with loss -0.3176477253437042 with evaluation : 0.6328041553497314
+model saved-0-10000
+validating on batch45.0 on epoch 0 with loss -0.2620494067668915 with evaluation : 0.6317076683044434
+model saved-0-10000
+validating on batch46.0 on epoch 0 with loss -0.2623007893562317 with evaluation : 0.6321232318878174
+model saved-0-10000
+validating on batch47.0 on epoch 0 with loss -0.3251837491989136 with evaluation : 0.6331540942192078
+model saved-0-10000
+validating on batch48.0 on epoch 0 with loss -0.16891349852085114 with evaluation : 0.632269024848938
+model saved-0-10000
+validating on batch49.0 on epoch 0 with loss -0.27766942977905273 with evaluation : 0.6328647136688232
+model saved-0-10000
+validating on batch50.0 on epoch 0 with loss -0.2671819031238556 with evaluation : 0.6331505179405212
+model saved-0-10000
+validating on batch51.0 on epoch 0 with loss -0.21893492341041565 with evaluation : 0.6340951323509216
+model saved-0-10000
+validating on batch52.0 on epoch 0 with loss -0.17832204699516296 with evaluation : 0.6349316835403442
+model saved-0-10000
+validating on batch53.0 on epoch 0 with loss -0.23394089937210083 with evaluation : 0.6355472803115845
+model saved-0-10000
+validating on batch54.0 on epoch 0 with loss -0.30827441811561584 with evaluation : 0.6366935968399048
+model saved-0-10000
+validating on batch55.0 on epoch 0 with loss -0.1677786409854889 with evaluation : 0.6353797912597656
+model saved-0-10000
+validating on batch56.0 on epoch 0 with loss -0.2477855384349823 with evaluation : 0.6362032294273376
+model saved-0-10000
+validating on batch57.0 on epoch 0 with loss -0.16713812947273254 with evaluation : 0.6353276371955872
+model saved-0-10000
+validating on batch58.0 on epoch 0 with loss -0.212800070643425 with evaluation : 0.6348484754562378
+model saved-0-10000
+validating on batch59.0 on epoch 0 with loss -0.19477039575576782 with evaluation : 0.6338221430778503
+model saved-0-10000
+validating on batch60.0 on epoch 0 with loss -0.24332934617996216 with evaluation : 0.6330428123474121
+model saved-0-10000
+validating on batch61.0 on epoch 0 with loss -0.17773178219795227 with evaluation : 0.633105456829071
+model saved-0-10000
+validating on batch62.0 on epoch 0 with loss -0.2020011991262436 with evaluation : 0.6320127248764038
+model saved-0-10000
+validating on batch63.0 on epoch 0 with loss -0.2636711001396179 with evaluation : 0.6327557563781738
+model saved-0-10000
+validating on batch64.0 on epoch 0 with loss -0.33727508783340454 with evaluation : 0.6329790949821472
+model saved-0-10000
+validating on batch65.0 on epoch 0 with loss -0.2679872512817383 with evaluation : 0.6327798366546631
+model saved-0-10000
+validating on batch66.0 on epoch 0 with loss -0.23348727822303772 with evaluation : 0.6323782801628113
+model saved-0-10000
+validating on batch67.0 on epoch 0 with loss -0.21048778295516968 with evaluation : 0.6321933269500732
+0###-0.13612837685518955###-0.2531334249412312###0.5665481686592102###0.6321933269500732
+model saved-0--0.2531334249412312
+tensor(-0.1902, grad_fn=<MeanBackward0>) tensor(0.0720, grad_fn=<CopyBackwards>)
+tensor(0.6202)
+training on batch0.0 on epoch 1 with loss -0.11815757304430008 with evaluation : 0.6202126145362854
+tensor(-0.3024, grad_fn=<MeanBackward0>) tensor(0.0488, grad_fn=<CopyBackwards>)
+tensor(0.6125)
+training on batch1.0 on epoch 1 with loss -0.2535792291164398 with evaluation : 0.6163759231567383
+tensor(-0.2430, grad_fn=<MeanBackward0>) tensor(0.9498, grad_fn=<CopyBackwards>)
+tensor(0.6068)
+training on batch2.0 on epoch 1 with loss 0.7068009972572327 with evaluation : 0.6131740212440491
+tensor(-0.2986, grad_fn=<MeanBackward0>) tensor(1.6763, grad_fn=<CopyBackwards>)
+tensor(0.6002)
+training on batch3.0 on epoch 1 with loss 1.3777269124984741 with evaluation : 0.6099249124526978
+tensor(-0.0960, grad_fn=<MeanBackward0>) tensor(-0.0022, grad_fn=<CopyBackwards>)
+tensor(0.5372)
+training on batch4.0 on epoch 1 with loss -0.09818259626626968 with evaluation : 0.5953729748725891
+tensor(-0.0840, grad_fn=<MeanBackward0>) tensor(16.1431, grad_fn=<CopyBackwards>)
+tensor(0.5155)
+training on batch5.0 on epoch 1 with loss 16.059127807617188 with evaluation : 0.5820555090904236
+tensor(-0.0593, grad_fn=<MeanBackward0>) tensor(62.6047, grad_fn=<CopyBackwards>)
+tensor(0.4749)
+training on batch6.0 on epoch 1 with loss 62.5453987121582 with evaluation : 0.5667511224746704
+tensor(-0.0234, grad_fn=<MeanBackward0>) tensor(148.4799, grad_fn=<CopyBackwards>)
+tensor(0.4455)
+training on batch7.0 on epoch 1 with loss 148.45652770996094 with evaluation : 0.5515949130058289
+tensor(-0.0679, grad_fn=<MeanBackward0>) tensor(273.7499, grad_fn=<CopyBackwards>)
+tensor(0.4784)
+training on batch8.0 on epoch 1 with loss 273.6820373535156 with evaluation : 0.543460488319397
+tensor(-0.0374, grad_fn=<MeanBackward0>) tensor(351.0518, grad_fn=<CopyBackwards>)
+tensor(0.4457)
+training on batch9.0 on epoch 1 with loss 351.01434326171875 with evaluation : 0.533685564994812
+tensor(-0.0458, grad_fn=<MeanBackward0>) tensor(487.6312, grad_fn=<CopyBackwards>)
+tensor(0.4653)
+training on batch10.0 on epoch 1 with loss 487.58538818359375 with evaluation : 0.5274662375450134
+tensor(-0.0536, grad_fn=<MeanBackward0>) tensor(609.2871, grad_fn=<CopyBackwards>)
+tensor(0.4557)
+training on batch11.0 on epoch 1 with loss 609.2335205078125 with evaluation : 0.5214817523956299
+tensor(-0.0300, grad_fn=<MeanBackward0>) tensor(647.7327, grad_fn=<CopyBackwards>)
+tensor(0.4444)
+training on batch12.0 on epoch 1 with loss 647.7026977539062 with evaluation : 0.515549898147583
+tensor(-0.0335, grad_fn=<MeanBackward0>) tensor(750.7159, grad_fn=<CopyBackwards>)
+tensor(0.4436)
+training on batch13.0 on epoch 1 with loss 750.6824951171875 with evaluation : 0.5104118585586548
+tensor(-0.0271, grad_fn=<MeanBackward0>) tensor(804.9485, grad_fn=<CopyBackwards>)
+tensor(0.4307)
+training on batch14.0 on epoch 1 with loss 804.9215087890625 with evaluation : 0.505100667476654
+tensor(-0.0531, grad_fn=<MeanBackward0>) tensor(1039.4996, grad_fn=<CopyBackwards>)
+tensor(0.4474)
+training on batch15.0 on epoch 1 with loss 1039.446533203125 with evaluation : 0.5014960169792175
+tensor(-0.0394, grad_fn=<MeanBackward0>) tensor(986.8516, grad_fn=<CopyBackwards>)
+tensor(0.4425)
+training on batch16.0 on epoch 1 with loss 986.8121948242188 with evaluation : 0.49802741408348083
+tensor(-0.0566, grad_fn=<MeanBackward0>) tensor(1198.8940, grad_fn=<CopyBackwards>)
+tensor(0.4730)
+training on batch17.0 on epoch 1 with loss 1198.83740234375 with evaluation : 0.4966375529766083
+tensor(-0.0408, grad_fn=<MeanBackward0>) tensor(1190.4158, grad_fn=<CopyBackwards>)
+tensor(0.4473)
+training on batch18.0 on epoch 1 with loss 1190.375 with evaluation : 0.49403953552246094
+tensor(-0.0495, grad_fn=<MeanBackward0>) tensor(1430.6007, grad_fn=<CopyBackwards>)
+tensor(0.4395)
+training on batch19.0 on epoch 1 with loss 1430.55126953125 with evaluation : 0.4913104176521301
+tensor(-0.0303, grad_fn=<MeanBackward0>) tensor(1293.8588, grad_fn=<CopyBackwards>)
+tensor(0.4445)
+training on batch20.0 on epoch 1 with loss 1293.8284912109375 with evaluation : 0.48908209800720215
+tensor(-0.0469, grad_fn=<MeanBackward0>) tensor(1558.5753, grad_fn=<CopyBackwards>)
+tensor(0.4323)
+training on batch21.0 on epoch 1 with loss 1558.5284423828125 with evaluation : 0.48649999499320984
+tensor(-0.0315, grad_fn=<MeanBackward0>) tensor(1519.5209, grad_fn=<CopyBackwards>)
+tensor(0.4140)
+training on batch22.0 on epoch 1 with loss 1519.4893798828125 with evaluation : 0.48334914445877075
+tensor(-0.0536, grad_fn=<MeanBackward0>) tensor(1817.2313, grad_fn=<CopyBackwards>)
+tensor(0.4397)
+training on batch23.0 on epoch 1 with loss 1817.177734375 with evaluation : 0.4815302789211273
+tensor(-0.0297, grad_fn=<MeanBackward0>) tensor(1667.8193, grad_fn=<CopyBackwards>)
+tensor(0.4279)
+training on batch24.0 on epoch 1 with loss 1667.78955078125 with evaluation : 0.4793851971626282
+tensor(-0.0495, grad_fn=<MeanBackward0>) tensor(1846.7977, grad_fn=<CopyBackwards>)
+tensor(0.4478)
+training on batch25.0 on epoch 1 with loss 1846.748291015625 with evaluation : 0.4781704545021057
+tensor(-0.0560, grad_fn=<MeanBackward0>) tensor(2024.3055, grad_fn=<CopyBackwards>)
+tensor(0.4337)
+training on batch26.0 on epoch 1 with loss 2024.24951171875 with evaluation : 0.47652462124824524
+tensor(-0.0311, grad_fn=<MeanBackward0>) tensor(1833.5436, grad_fn=<CopyBackwards>)
+tensor(0.4282)
+training on batch27.0 on epoch 1 with loss 1833.5125732421875 with evaluation : 0.47479748725891113
+tensor(-0.0347, grad_fn=<MeanBackward0>) tensor(2015.5562, grad_fn=<CopyBackwards>)
+tensor(0.4356)
+training on batch28.0 on epoch 1 with loss 2015.521484375 with evaluation : 0.4734472632408142
+tensor(-0.0405, grad_fn=<MeanBackward0>) tensor(2152.2939, grad_fn=<CopyBackwards>)
+tensor(0.4312)
+training on batch29.0 on epoch 1 with loss 2152.25341796875 with evaluation : 0.4720381200313568
+tensor(-0.0174, grad_fn=<MeanBackward0>) tensor(2152.0056, grad_fn=<CopyBackwards>)
+tensor(0.4028)
+training on batch30.0 on epoch 1 with loss 2151.98828125 with evaluation : 0.4698040187358856
+tensor(-0.0338, grad_fn=<MeanBackward0>) tensor(2146.5247, grad_fn=<CopyBackwards>)
+tensor(0.4256)
+training on batch31.0 on epoch 1 with loss 2146.490966796875 with evaluation : 0.468421995639801
+tensor(-0.0358, grad_fn=<MeanBackward0>) tensor(2178.6033, grad_fn=<CopyBackwards>)
+tensor(0.4198)
+training on batch32.0 on epoch 1 with loss 2178.5673828125 with evaluation : 0.4669477343559265
+tensor(-0.0344, grad_fn=<MeanBackward0>) tensor(2263.4263, grad_fn=<CopyBackwards>)
+tensor(0.4213)
+training on batch33.0 on epoch 1 with loss 2263.391845703125 with evaluation : 0.4656065106391907
+tensor(-0.0404, grad_fn=<MeanBackward0>) tensor(2682.9436, grad_fn=<CopyBackwards>)
+tensor(0.4220)
+training on batch34.0 on epoch 1 with loss 2682.9033203125 with evaluation : 0.46436163783073425
+tensor(-0.0261, grad_fn=<MeanBackward0>) tensor(2604.9661, grad_fn=<CopyBackwards>)
+tensor(0.4054)
+training on batch35.0 on epoch 1 with loss 2604.93994140625 with evaluation : 0.46272289752960205
+tensor(-0.0266, grad_fn=<MeanBackward0>) tensor(2645.7925, grad_fn=<CopyBackwards>)
+tensor(0.3992)
+training on batch36.0 on epoch 1 with loss 2645.765869140625 with evaluation : 0.46100524067878723
+tensor(-0.0385, grad_fn=<MeanBackward0>) tensor(2570.0586, grad_fn=<CopyBackwards>)
+tensor(0.4125)
+training on batch37.0 on epoch 1 with loss 2570.02001953125 with evaluation : 0.4597289562225342
+tensor(-0.0385, grad_fn=<MeanBackward0>) tensor(2562.4124, grad_fn=<CopyBackwards>)
+tensor(0.4280)
+training on batch38.0 on epoch 1 with loss 2562.373779296875 with evaluation : 0.4589148163795471
+tensor(-0.0293, grad_fn=<MeanBackward0>) tensor(2741.3208, grad_fn=<CopyBackwards>)
+tensor(0.4098)
+training on batch39.0 on epoch 1 with loss 2741.29150390625 with evaluation : 0.45768699049949646
+tensor(-0.0464, grad_fn=<MeanBackward0>) tensor(2741.9756, grad_fn=<CopyBackwards>)
+tensor(0.4262)
+training on batch40.0 on epoch 1 with loss 2741.92919921875 with evaluation : 0.45692014694213867
+tensor(-0.0201, grad_fn=<MeanBackward0>) tensor(2786.2053, grad_fn=<CopyBackwards>)
+tensor(0.3984)
+training on batch41.0 on epoch 1 with loss 2786.185302734375 with evaluation : 0.4555276334285736
+tensor(-0.0285, grad_fn=<MeanBackward0>) tensor(2774.9062, grad_fn=<CopyBackwards>)
+tensor(0.3865)
+training on batch42.0 on epoch 1 with loss 2774.877685546875 with evaluation : 0.45392218232154846
+tensor(-0.0447, grad_fn=<MeanBackward0>) tensor(3087.8330, grad_fn=<CopyBackwards>)
+tensor(0.4234)
+training on batch43.0 on epoch 1 with loss 3087.788330078125 with evaluation : 0.45322906970977783
+tensor(-0.0312, grad_fn=<MeanBackward0>) tensor(3327.4531, grad_fn=<CopyBackwards>)
+tensor(0.4074)
+training on batch44.0 on epoch 1 with loss 3327.421875 with evaluation : 0.45221054553985596
+tensor(-0.0329, grad_fn=<MeanBackward0>) tensor(3313.8486, grad_fn=<CopyBackwards>)
+tensor(0.3963)
+training on batch45.0 on epoch 1 with loss 3313.815673828125 with evaluation : 0.45099499821662903
+tensor(-0.0285, grad_fn=<MeanBackward0>) tensor(3358.9167, grad_fn=<CopyBackwards>)
+tensor(0.4063)
+training on batch46.0 on epoch 1 with loss 3358.88818359375 with evaluation : 0.4500449597835541
+tensor(-0.0143, grad_fn=<MeanBackward0>) tensor(3485.3755, grad_fn=<CopyBackwards>)
+tensor(0.3801)
+training on batch47.0 on epoch 1 with loss 3485.361328125 with evaluation : 0.448588103055954
+tensor(-0.0186, grad_fn=<MeanBackward0>) tensor(3258.8350, grad_fn=<CopyBackwards>)
+tensor(0.3593)
+training on batch48.0 on epoch 1 with loss 3258.81640625 with evaluation : 0.44676682353019714
+tensor(-0.0275, grad_fn=<MeanBackward0>) tensor(3438.0581, grad_fn=<CopyBackwards>)
+tensor(0.4096)
+training on batch49.0 on epoch 1 with loss 3438.030517578125 with evaluation : 0.44602298736572266
+tensor(-0.0236, grad_fn=<MeanBackward0>) tensor(4130.1660, grad_fn=<CopyBackwards>)
+tensor(0.3796)
+training on batch50.0 on epoch 1 with loss 4130.142578125 with evaluation : 0.44472068548202515
+tensor(-0.0280, grad_fn=<MeanBackward0>) tensor(3911.5237, grad_fn=<CopyBackwards>)
+tensor(0.3904)
+training on batch51.0 on epoch 1 with loss 3911.49560546875 with evaluation : 0.44367650151252747
+tensor(-0.0234, grad_fn=<MeanBackward0>) tensor(3689.0513, grad_fn=<CopyBackwards>)
+tensor(0.3871)
+training on batch52.0 on epoch 1 with loss 3689.02783203125 with evaluation : 0.4426094591617584
+tensor(-0.0313, grad_fn=<MeanBackward0>) tensor(3877.1230, grad_fn=<CopyBackwards>)
+tensor(0.3719)
+training on batch53.0 on epoch 1 with loss 3877.091796875 with evaluation : 0.4412996768951416
+tensor(-0.0433, grad_fn=<MeanBackward0>) tensor(4214.6753, grad_fn=<CopyBackwards>)
+tensor(0.3840)
+training on batch54.0 on epoch 1 with loss 4214.6318359375 with evaluation : 0.44025787711143494
+tensor(-0.0318, grad_fn=<MeanBackward0>) tensor(4223.8457, grad_fn=<CopyBackwards>)
+tensor(0.3786)
+training on batch55.0 on epoch 1 with loss 4223.81396484375 with evaluation : 0.4391572177410126
+tensor(-0.0286, grad_fn=<MeanBackward0>) tensor(4177.8647, grad_fn=<CopyBackwards>)
+tensor(0.3727)
+training on batch56.0 on epoch 1 with loss 4177.8359375 with evaluation : 0.43799063563346863
+tensor(-0.0203, grad_fn=<MeanBackward0>) tensor(4450.6328, grad_fn=<CopyBackwards>)
+tensor(0.3744)
+training on batch57.0 on epoch 1 with loss 4450.6123046875 with evaluation : 0.43689435720443726
+tensor(-0.0103, grad_fn=<MeanBackward0>) tensor(4657.2271, grad_fn=<CopyBackwards>)
+tensor(0.3592)
+training on batch58.0 on epoch 1 with loss 4657.216796875 with evaluation : 0.4355778992176056
+tensor(-0.0239, grad_fn=<MeanBackward0>) tensor(5013.5181, grad_fn=<CopyBackwards>)
+tensor(0.3652)
+training on batch59.0 on epoch 1 with loss 5013.494140625 with evaluation : 0.43440547585487366
+tensor(-0.0251, grad_fn=<MeanBackward0>) tensor(4807.6436, grad_fn=<CopyBackwards>)
+tensor(0.3592)
+training on batch60.0 on epoch 1 with loss 4807.6181640625 with evaluation : 0.4331726133823395
+tensor(-0.0246, grad_fn=<MeanBackward0>) tensor(5154.7412, grad_fn=<CopyBackwards>)
+tensor(0.3598)
+training on batch61.0 on epoch 1 with loss 5154.716796875 with evaluation : 0.4319884777069092
+tensor(-0.0281, grad_fn=<MeanBackward0>) tensor(5043.6719, grad_fn=<CopyBackwards>)
+tensor(0.3505)
+training on batch62.0 on epoch 1 with loss 5043.64404296875 with evaluation : 0.4306942820549011
+tensor(-0.0254, grad_fn=<MeanBackward0>) tensor(5461.1611, grad_fn=<CopyBackwards>)
+tensor(0.3384)
+training on batch63.0 on epoch 1 with loss 5461.1357421875 with evaluation : 0.4292523264884949
+tensor(-0.0180, grad_fn=<MeanBackward0>) tensor(5589.1909, grad_fn=<CopyBackwards>)
+tensor(0.3126)
+training on batch64.0 on epoch 1 with loss 5589.1728515625 with evaluation : 0.42745739221572876
+tensor(-0.0135, grad_fn=<MeanBackward0>) tensor(5787.2681, grad_fn=<CopyBackwards>)
+tensor(0.3107)
+training on batch65.0 on epoch 1 with loss 5787.25439453125 with evaluation : 0.4256890118122101
+tensor(-0.0145, grad_fn=<MeanBackward0>) tensor(5797.4980, grad_fn=<CopyBackwards>)
+tensor(0.3138)
+training on batch66.0 on epoch 1 with loss 5797.4833984375 with evaluation : 0.424018919467926
+tensor(-0.0294, grad_fn=<MeanBackward0>) tensor(6836.2676, grad_fn=<CopyBackwards>)
+tensor(0.3400)
+training on batch67.0 on epoch 1 with loss 6836.23828125 with evaluation : 0.4227829575538635
+tensor(-0.0194, grad_fn=<MeanBackward0>) tensor(6478.7910, grad_fn=<CopyBackwards>)
+tensor(0.3105)
+training on batch68.0 on epoch 1 with loss 6478.771484375 with evaluation : 0.42115500569343567
+tensor(-0.0278, grad_fn=<MeanBackward0>) tensor(6327.1460, grad_fn=<CopyBackwards>)
+tensor(0.2959)
+training on batch69.0 on epoch 1 with loss 6327.1181640625 with evaluation : 0.4193660318851471
+tensor(-0.0304, grad_fn=<MeanBackward0>) tensor(6872.7837, grad_fn=<CopyBackwards>)
+tensor(0.3159)
+training on batch70.0 on epoch 1 with loss 6872.75341796875 with evaluation : 0.41790881752967834
+tensor(-0.0179, grad_fn=<MeanBackward0>) tensor(7062.2881, grad_fn=<CopyBackwards>)
+tensor(0.3145)
+training on batch71.0 on epoch 1 with loss 7062.27001953125 with evaluation : 0.41647249460220337
+tensor(-0.0156, grad_fn=<MeanBackward0>) tensor(7037.8086, grad_fn=<CopyBackwards>)
+tensor(0.2983)
+training on batch72.0 on epoch 1 with loss 7037.79296875 with evaluation : 0.4148539900779724
+tensor(-0.0210, grad_fn=<MeanBackward0>) tensor(7209.4375, grad_fn=<CopyBackwards>)
+tensor(0.3063)
+training on batch73.0 on epoch 1 with loss 7209.41650390625 with evaluation : 0.4133875370025635
+tensor(-0.0147, grad_fn=<MeanBackward0>) tensor(7209.8374, grad_fn=<CopyBackwards>)
+tensor(0.2741)
+training on batch74.0 on epoch 1 with loss 7209.82275390625 with evaluation : 0.411531001329422
+tensor(-0.0223, grad_fn=<MeanBackward0>) tensor(7575.9985, grad_fn=<CopyBackwards>)
+tensor(0.3011)
+training on batch75.0 on epoch 1 with loss 7575.97607421875 with evaluation : 0.41007786989212036
+tensor(-0.0216, grad_fn=<MeanBackward0>) tensor(7674.7959, grad_fn=<CopyBackwards>)
+tensor(0.2846)
+training on batch76.0 on epoch 1 with loss 7674.7744140625 with evaluation : 0.408448189496994
+tensor(-0.0266, grad_fn=<MeanBackward0>) tensor(8212.0234, grad_fn=<CopyBackwards>)
+tensor(0.3017)
+training on batch77.0 on epoch 1 with loss 8211.9970703125 with evaluation : 0.4070790112018585
+tensor(-0.0100, grad_fn=<MeanBackward0>) tensor(8063.8149, grad_fn=<CopyBackwards>)
+tensor(0.2676)
+training on batch78.0 on epoch 1 with loss 8063.80517578125 with evaluation : 0.40531352162361145
+tensor(-0.0182, grad_fn=<MeanBackward0>) tensor(8071.4160, grad_fn=<CopyBackwards>)
+tensor(0.2770)
+training on batch79.0 on epoch 1 with loss 8071.39794921875 with evaluation : 0.40371012687683105
+tensor(-0.0166, grad_fn=<MeanBackward0>) tensor(8944.1133, grad_fn=<CopyBackwards>)
+tensor(0.2734)
+training on batch80.0 on epoch 1 with loss 8944.0966796875 with evaluation : 0.40210092067718506
+tensor(-0.0158, grad_fn=<MeanBackward0>) tensor(8660.1680, grad_fn=<CopyBackwards>)
+tensor(0.2579)
+training on batch81.0 on epoch 1 with loss 8660.15234375 with evaluation : 0.4003424346446991
+tensor(-0.0206, grad_fn=<MeanBackward0>) tensor(9254.6602, grad_fn=<CopyBackwards>)
+tensor(0.2433)
+training on batch82.0 on epoch 1 with loss 9254.6396484375 with evaluation : 0.3984508216381073
+tensor(-0.0075, grad_fn=<MeanBackward0>) tensor(8972.2002, grad_fn=<CopyBackwards>)
+tensor(0.2578)
+training on batch83.0 on epoch 1 with loss 8972.1923828125 with evaluation : 0.39677679538726807
+tensor(-0.0151, grad_fn=<MeanBackward0>) tensor(9307.7383, grad_fn=<CopyBackwards>)
+tensor(0.0079)
+training on batch84.0 on epoch 1 with loss 9307.7236328125 with evaluation : 0.3922019898891449
+tensor(-0.0128, grad_fn=<MeanBackward0>) tensor(9392.8232, grad_fn=<CopyBackwards>)
+tensor(0.0081)
+training on batch85.0 on epoch 1 with loss 9392.810546875 with evaluation : 0.3877357244491577
+tensor(-0.0098, grad_fn=<MeanBackward0>) tensor(9736.3369, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch86.0 on epoch 1 with loss 9736.3271484375 with evaluation : 0.38333821296691895
+tensor(-0.0175, grad_fn=<MeanBackward0>) tensor(11085.7168, grad_fn=<CopyBackwards>)
+tensor(0.0092)
+training on batch87.0 on epoch 1 with loss 11085.69921875 with evaluation : 0.3790864944458008
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(10763.2373, grad_fn=<CopyBackwards>)
+tensor(0.0050)
+training on batch88.0 on epoch 1 with loss 10763.2265625 with evaluation : 0.3748827278614044
+tensor(-0.0175, grad_fn=<MeanBackward0>) tensor(11148.6299, grad_fn=<CopyBackwards>)
+tensor(0.0121)
+training on batch89.0 on epoch 1 with loss 11148.6123046875 with evaluation : 0.3708517849445343
+tensor(-0.0098, grad_fn=<MeanBackward0>) tensor(11742.0947, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch90.0 on epoch 1 with loss 11742.0849609375 with evaluation : 0.3668520450592041
+tensor(-0.0133, grad_fn=<MeanBackward0>) tensor(11781.7363, grad_fn=<CopyBackwards>)
+tensor(0.0081)
+training on batch91.0 on epoch 1 with loss 11781.72265625 with evaluation : 0.3629523515701294
+tensor(-0.0169, grad_fn=<MeanBackward0>) tensor(12251.5859, grad_fn=<CopyBackwards>)
+tensor(0.0099)
+training on batch92.0 on epoch 1 with loss 12251.5693359375 with evaluation : 0.3591564893722534
+tensor(-0.0118, grad_fn=<MeanBackward0>) tensor(12395.5361, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch93.0 on epoch 1 with loss 12395.5244140625 with evaluation : 0.35539814829826355
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(12894.9297, grad_fn=<CopyBackwards>)
+tensor(0.0090)
+training on batch94.0 on epoch 1 with loss 12894.916015625 with evaluation : 0.3517521917819977
+tensor(-0.0127, grad_fn=<MeanBackward0>) tensor(12153.1396, grad_fn=<CopyBackwards>)
+tensor(0.0080)
+training on batch95.0 on epoch 1 with loss 12153.126953125 with evaluation : 0.34817126393318176
+tensor(-0.0102, grad_fn=<MeanBackward0>) tensor(12588.6377, grad_fn=<CopyBackwards>)
+tensor(0.0056)
+training on batch96.0 on epoch 1 with loss 12588.6279296875 with evaluation : 0.34463945031166077
+tensor(-0.0074, grad_fn=<MeanBackward0>) tensor(12525.2920, grad_fn=<CopyBackwards>)
+tensor(0.0042)
+training on batch97.0 on epoch 1 with loss 12525.2841796875 with evaluation : 0.3411654233932495
+tensor(-0.0151, grad_fn=<MeanBackward0>) tensor(12080.9932, grad_fn=<CopyBackwards>)
+tensor(0.0105)
+training on batch98.0 on epoch 1 with loss 12080.9775390625 with evaluation : 0.33782535791397095
+tensor(-0.0157, grad_fn=<MeanBackward0>) tensor(12024.2051, grad_fn=<CopyBackwards>)
+tensor(0.0109)
+training on batch99.0 on epoch 1 with loss 12024.189453125 with evaluation : 0.33455631136894226
+tensor(-0.0144, grad_fn=<MeanBackward0>) tensor(12437.9082, grad_fn=<CopyBackwards>)
+tensor(0.0057)
+training on batch100.0 on epoch 1 with loss 12437.8935546875 with evaluation : 0.3313007950782776
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(13936.2832, grad_fn=<CopyBackwards>)
+tensor(0.0084)
+training on batch101.0 on epoch 1 with loss 13936.271484375 with evaluation : 0.328134685754776
+tensor(-0.0070, grad_fn=<MeanBackward0>) tensor(14766.6221, grad_fn=<CopyBackwards>)
+tensor(0.0040)
+training on batch102.0 on epoch 1 with loss 14766.615234375 with evaluation : 0.32498759031295776
+tensor(-0.0094, grad_fn=<MeanBackward0>) tensor(14083.3438, grad_fn=<CopyBackwards>)
+tensor(0.0064)
+training on batch103.0 on epoch 1 with loss 14083.333984375 with evaluation : 0.32192450761795044
+tensor(-0.0132, grad_fn=<MeanBackward0>) tensor(14184.9551, grad_fn=<CopyBackwards>)
+tensor(0.0061)
+training on batch104.0 on epoch 1 with loss 14184.94140625 with evaluation : 0.31891635060310364
+tensor(-0.0044, grad_fn=<MeanBackward0>) tensor(13678.8857, grad_fn=<CopyBackwards>)
+tensor(0.0030)
+training on batch105.0 on epoch 1 with loss 13678.880859375 with evaluation : 0.3159356713294983
+tensor(-0.0062, grad_fn=<MeanBackward0>) tensor(13308.1650, grad_fn=<CopyBackwards>)
+tensor(0.0039)
+training on batch106.0 on epoch 1 with loss 13308.1591796875 with evaluation : 0.31301939487457275
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(13477.4619, grad_fn=<CopyBackwards>)
+tensor(0.0068)
+training on batch107.0 on epoch 1 with loss 13477.4501953125 with evaluation : 0.3101844787597656
+tensor(-0.0140, grad_fn=<MeanBackward0>) tensor(14451.4443, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch108.0 on epoch 1 with loss 14451.4306640625 with evaluation : 0.3074139654636383
+tensor(-0.0188, grad_fn=<MeanBackward0>) tensor(15028.0918, grad_fn=<CopyBackwards>)
+tensor(0.0119)
+training on batch109.0 on epoch 1 with loss 15028.0732421875 with evaluation : 0.30472758412361145
+tensor(-0.0135, grad_fn=<MeanBackward0>) tensor(13669.0635, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch110.0 on epoch 1 with loss 13669.0498046875 with evaluation : 0.30206069350242615
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(14610.7480, grad_fn=<CopyBackwards>)
+tensor(0.0048)
+training on batch111.0 on epoch 1 with loss 14610.7373046875 with evaluation : 0.29940685629844666
+tensor(-0.0125, grad_fn=<MeanBackward0>) tensor(15234.9658, grad_fn=<CopyBackwards>)
+tensor(0.0064)
+training on batch112.0 on epoch 1 with loss 15234.953125 with evaluation : 0.2968134582042694
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(14280.8574, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch113.0 on epoch 1 with loss 14280.8466796875 with evaluation : 0.29427531361579895
+tensor(-0.0097, grad_fn=<MeanBackward0>) tensor(14341.1318, grad_fn=<CopyBackwards>)
+tensor(0.0051)
+training on batch114.0 on epoch 1 with loss 14341.1220703125 with evaluation : 0.2917609214782715
+tensor(-0.0158, grad_fn=<MeanBackward0>) tensor(13029.5020, grad_fn=<CopyBackwards>)
+tensor(0.0106)
+training on batch115.0 on epoch 1 with loss 13029.486328125 with evaluation : 0.2893374562263489
+tensor(-0.0095, grad_fn=<MeanBackward0>) tensor(14164.4805, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch116.0 on epoch 1 with loss 14164.470703125 with evaluation : 0.28692010045051575
+tensor(-0.0104, grad_fn=<MeanBackward0>) tensor(13155.1055, grad_fn=<CopyBackwards>)
+tensor(0.0076)
+training on batch117.0 on epoch 1 with loss 13155.0947265625 with evaluation : 0.2845531702041626
+tensor(-0.0114, grad_fn=<MeanBackward0>) tensor(13417.9023, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch118.0 on epoch 1 with loss 13417.890625 with evaluation : 0.28221818804740906
+tensor(-0.0074, grad_fn=<MeanBackward0>) tensor(14326.9209, grad_fn=<CopyBackwards>)
+tensor(0.0043)
+training on batch119.0 on epoch 1 with loss 14326.9130859375 with evaluation : 0.27990254759788513
+tensor(-0.0136, grad_fn=<MeanBackward0>) tensor(13529.6494, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch120.0 on epoch 1 with loss 13529.6357421875 with evaluation : 0.27764466404914856
+tensor(-0.0155, grad_fn=<MeanBackward0>) tensor(13244.7188, grad_fn=<CopyBackwards>)
+tensor(0.0085)
+training on batch121.0 on epoch 1 with loss 13244.703125 with evaluation : 0.2754382789134979
+tensor(-0.0118, grad_fn=<MeanBackward0>) tensor(12793.8047, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch122.0 on epoch 1 with loss 12793.79296875 with evaluation : 0.2732522487640381
+tensor(-0.0112, grad_fn=<MeanBackward0>) tensor(14451.5947, grad_fn=<CopyBackwards>)
+tensor(0.0061)
+training on batch123.0 on epoch 1 with loss 14451.5830078125 with evaluation : 0.27109748125076294
+tensor(-0.0132, grad_fn=<MeanBackward0>) tensor(13474.5996, grad_fn=<CopyBackwards>)
+tensor(0.0089)
+training on batch124.0 on epoch 1 with loss 13474.5859375 with evaluation : 0.2690000534057617
+tensor(-0.0123, grad_fn=<MeanBackward0>) tensor(14808.4863, grad_fn=<CopyBackwards>)
+tensor(0.0080)
+training on batch125.0 on epoch 1 with loss 14808.4736328125 with evaluation : 0.2669290006160736
+tensor(-0.0105, grad_fn=<MeanBackward0>) tensor(13282.7637, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch126.0 on epoch 1 with loss 13282.7529296875 with evaluation : 0.26488354802131653
+tensor(-0.0117, grad_fn=<MeanBackward0>) tensor(14160.9668, grad_fn=<CopyBackwards>)
+tensor(0.0077)
+training on batch127.0 on epoch 1 with loss 14160.955078125 with evaluation : 0.26287397742271423
+tensor(-0.0089, grad_fn=<MeanBackward0>) tensor(12898.5322, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch128.0 on epoch 1 with loss 12898.5234375 with evaluation : 0.2608763873577118
+tensor(-0.0104, grad_fn=<MeanBackward0>) tensor(13784.5156, grad_fn=<CopyBackwards>)
+tensor(0.0071)
+training on batch129.0 on epoch 1 with loss 13784.5048828125 with evaluation : 0.2589242160320282
+tensor(-0.0126, grad_fn=<MeanBackward0>) tensor(13684.3555, grad_fn=<CopyBackwards>)
+tensor(0.0089)
+training on batch130.0 on epoch 1 with loss 13684.3427734375 with evaluation : 0.2570153772830963
+tensor(-0.0148, grad_fn=<MeanBackward0>) tensor(13252.0322, grad_fn=<CopyBackwards>)
+tensor(0.0094)
+training on batch131.0 on epoch 1 with loss 13252.017578125 with evaluation : 0.2551395893096924
+tensor(-0.0080, grad_fn=<MeanBackward0>) tensor(14075.5645, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch132.0 on epoch 1 with loss 14075.556640625 with evaluation : 0.2532581686973572
+tensor(-0.0130, grad_fn=<MeanBackward0>) tensor(13654.6670, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch133.0 on epoch 1 with loss 13654.654296875 with evaluation : 0.2514244616031647
+tensor(-0.0156, grad_fn=<MeanBackward0>) tensor(14260.6826, grad_fn=<CopyBackwards>)
+tensor(0.0095)
+training on batch134.0 on epoch 1 with loss 14260.6669921875 with evaluation : 0.24963237345218658
+tensor(-0.0093, grad_fn=<MeanBackward0>) tensor(14328.8525, grad_fn=<CopyBackwards>)
+tensor(0.0070)
+training on batch135.0 on epoch 1 with loss 14328.84375 with evaluation : 0.24784842133522034
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(12917.3545, grad_fn=<CopyBackwards>)
+tensor(0.0051)
+training on batch136.0 on epoch 1 with loss 12917.3427734375 with evaluation : 0.24607646465301514
+tensor(-0.0078, grad_fn=<MeanBackward0>) tensor(13822.4473, grad_fn=<CopyBackwards>)
+tensor(0.0040)
+training on batch137.0 on epoch 1 with loss 13822.439453125 with evaluation : 0.2443225383758545
+tensor(-0.0147, grad_fn=<MeanBackward0>) tensor(13832.1318, grad_fn=<CopyBackwards>)
+tensor(0.0100)
+training on batch138.0 on epoch 1 with loss 13832.1171875 with evaluation : 0.24263645708560944
+tensor(-0.0160, grad_fn=<MeanBackward0>) tensor(13535.2227, grad_fn=<CopyBackwards>)
+tensor(0.0098)
+training on batch139.0 on epoch 1 with loss 13535.20703125 with evaluation : 0.24097339808940887
+tensor(-0.0054, grad_fn=<MeanBackward0>) tensor(13405.7188, grad_fn=<CopyBackwards>)
+tensor(0.0034)
+training on batch140.0 on epoch 1 with loss 13405.712890625 with evaluation : 0.23928819596767426
+tensor(-0.0109, grad_fn=<MeanBackward0>) tensor(13831.4482, grad_fn=<CopyBackwards>)
+tensor(0.0057)
+training on batch141.0 on epoch 1 with loss 13831.4375 with evaluation : 0.23764339089393616
+tensor(-0.0122, grad_fn=<MeanBackward0>) tensor(13484.8887, grad_fn=<CopyBackwards>)
+tensor(0.0062)
+training on batch142.0 on epoch 1 with loss 13484.876953125 with evaluation : 0.2360246777534485
+tensor(-0.0182, grad_fn=<MeanBackward0>) tensor(12931.8057, grad_fn=<CopyBackwards>)
+tensor(0.0118)
+training on batch143.0 on epoch 1 with loss 12931.787109375 with evaluation : 0.23446732759475708
+tensor(-0.0052, grad_fn=<MeanBackward0>) tensor(14001.1631, grad_fn=<CopyBackwards>)
+tensor(0.0026)
+training on batch144.0 on epoch 1 with loss 14001.158203125 with evaluation : 0.23286809027194977
+tensor(-0.0099, grad_fn=<MeanBackward0>) tensor(14040.3145, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch145.0 on epoch 1 with loss 14040.3046875 with evaluation : 0.2313241809606552
+tensor(-0.0095, grad_fn=<MeanBackward0>) tensor(13256.5371, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch146.0 on epoch 1 with loss 13256.52734375 with evaluation : 0.22979754209518433
+tensor(-0.0105, grad_fn=<MeanBackward0>) tensor(13876.5635, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch147.0 on epoch 1 with loss 13876.552734375 with evaluation : 0.22828850150108337
+tensor(-0.0084, grad_fn=<MeanBackward0>) tensor(13224.4512, grad_fn=<CopyBackwards>)
+tensor(0.0040)
+training on batch148.0 on epoch 1 with loss 13224.4423828125 with evaluation : 0.22678352892398834
+tensor(-0.0136, grad_fn=<MeanBackward0>) tensor(12729.5986, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch149.0 on epoch 1 with loss 12729.5849609375 with evaluation : 0.2253110259771347
+tensor(-0.0069, grad_fn=<MeanBackward0>) tensor(13473.6807, grad_fn=<CopyBackwards>)
+tensor(0.0038)
+training on batch150.0 on epoch 1 with loss 13473.673828125 with evaluation : 0.22384418547153473
+tensor(-0.0114, grad_fn=<MeanBackward0>) tensor(12849.3877, grad_fn=<CopyBackwards>)
+tensor(0.0076)
+training on batch151.0 on epoch 1 with loss 12849.3759765625 with evaluation : 0.2224218249320984
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(12476.6074, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch152.0 on epoch 1 with loss 12476.595703125 with evaluation : 0.22101712226867676
+tensor(-0.0106, grad_fn=<MeanBackward0>) tensor(14955.7822, grad_fn=<CopyBackwards>)
+tensor(0.0078)
+training on batch153.0 on epoch 1 with loss 14955.771484375 with evaluation : 0.2196328043937683
+tensor(-0.0151, grad_fn=<MeanBackward0>) tensor(13336.3223, grad_fn=<CopyBackwards>)
+tensor(0.0101)
+training on batch154.0 on epoch 1 with loss 13336.3076171875 with evaluation : 0.21828104555606842
+tensor(-0.0073, grad_fn=<MeanBackward0>) tensor(13497.8584, grad_fn=<CopyBackwards>)
+tensor(0.0050)
+training on batch155.0 on epoch 1 with loss 13497.8505859375 with evaluation : 0.216914102435112
+tensor(-0.0105, grad_fn=<MeanBackward0>) tensor(14330.0332, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch156.0 on epoch 1 with loss 14330.0224609375 with evaluation : 0.2155739814043045
+tensor(-0.0087, grad_fn=<MeanBackward0>) tensor(14533.5449, grad_fn=<CopyBackwards>)
+tensor(0.0039)
+training on batch157.0 on epoch 1 with loss 14533.5361328125 with evaluation : 0.2142343670129776
+tensor(-0.0135, grad_fn=<MeanBackward0>) tensor(13778.9424, grad_fn=<CopyBackwards>)
+tensor(0.0084)
+training on batch158.0 on epoch 1 with loss 13778.9287109375 with evaluation : 0.21293959021568298
+tensor(-0.0111, grad_fn=<MeanBackward0>) tensor(13363.6846, grad_fn=<CopyBackwards>)
+tensor(0.0068)
+training on batch159.0 on epoch 1 with loss 13363.673828125 with evaluation : 0.2116512954235077
+tensor(-0.0129, grad_fn=<MeanBackward0>) tensor(12658.5957, grad_fn=<CopyBackwards>)
+tensor(0.0078)
+training on batch160.0 on epoch 1 with loss 12658.5830078125 with evaluation : 0.2103852927684784
+tensor(-0.0177, grad_fn=<MeanBackward0>) tensor(12905.4443, grad_fn=<CopyBackwards>)
+tensor(0.0094)
+training on batch161.0 on epoch 1 with loss 12905.4267578125 with evaluation : 0.20914475619792938
+tensor(-0.0152, grad_fn=<MeanBackward0>) tensor(13190.5312, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch162.0 on epoch 1 with loss 13190.515625 with evaluation : 0.20790210366249084
+tensor(-0.0138, grad_fn=<MeanBackward0>) tensor(13631.0371, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch163.0 on epoch 1 with loss 13631.0234375 with evaluation : 0.20668034255504608
+tensor(-0.0158, grad_fn=<MeanBackward0>) tensor(13407.0557, grad_fn=<CopyBackwards>)
+tensor(0.0083)
+training on batch164.0 on epoch 1 with loss 13407.0400390625 with evaluation : 0.20547783374786377
+tensor(-0.0075, grad_fn=<MeanBackward0>) tensor(13563.8193, grad_fn=<CopyBackwards>)
+tensor(0.0046)
+training on batch165.0 on epoch 1 with loss 13563.8115234375 with evaluation : 0.20426800847053528
+tensor(-0.0151) tensor(14164.8145)
+validating on batch0.0 on epoch 1 with loss 14164.7998046875 with evaluation : 0.011060870252549648
+tensor(-0.0078) tensor(14105.0293)
+validating on batch1.0 on epoch 1 with loss 14105.021484375 with evaluation : 0.007716888561844826
+tensor(-0.0099) tensor(14032.1826)
+validating on batch2.0 on epoch 1 with loss 14032.1728515625 with evaluation : 0.007442279253154993
+tensor(-0.0084) tensor(13775.5176)
+validating on batch3.0 on epoch 1 with loss 13775.5087890625 with evaluation : 0.006997920572757721
+tensor(-0.0122) tensor(14182.8672)
+validating on batch4.0 on epoch 1 with loss 14182.8544921875 with evaluation : 0.007069166749715805
+tensor(-0.0095) tensor(14229.0352)
+validating on batch5.0 on epoch 1 with loss 14229.025390625 with evaluation : 0.006506297271698713
+tensor(-0.0096) tensor(14087.4512)
+validating on batch6.0 on epoch 1 with loss 14087.44140625 with evaluation : 0.006292546633630991
+tensor(-0.0136) tensor(13923.6270)
+validating on batch7.0 on epoch 1 with loss 13923.61328125 with evaluation : 0.006602808367460966
+tensor(-0.0052) tensor(14590.4238)
+validating on batch8.0 on epoch 1 with loss 14590.4189453125 with evaluation : 0.006152297370135784
+tensor(-0.0096) tensor(14072.1299)
+validating on batch9.0 on epoch 1 with loss 14072.1201171875 with evaluation : 0.006088055670261383
+tensor(-0.0065) tensor(13937.6631)
+validating on batch10.0 on epoch 1 with loss 13937.65625 with evaluation : 0.005869648884981871
+tensor(-0.0170) tensor(14391.7686)
+validating on batch11.0 on epoch 1 with loss 14391.751953125 with evaluation : 0.006196804344654083
+tensor(-0.0066) tensor(14330.9424)
+validating on batch12.0 on epoch 1 with loss 14330.935546875 with evaluation : 0.006020091008394957
+tensor(-0.0129) tensor(14260.3818)
+validating on batch13.0 on epoch 1 with loss 14260.369140625 with evaluation : 0.0061361887492239475
+tensor(-0.0142) tensor(14131.2461)
+validating on batch14.0 on epoch 1 with loss 14131.232421875 with evaluation : 0.006267198361456394
+tensor(-0.0143) tensor(13861.1611)
+validating on batch15.0 on epoch 1 with loss 13861.146484375 with evaluation : 0.006364433094859123
+tensor(-0.0078) tensor(14332.7012)
+validating on batch16.0 on epoch 1 with loss 14332.693359375 with evaluation : 0.0062195719219744205
+tensor(-0.0128) tensor(13934.7744)
+validating on batch17.0 on epoch 1 with loss 13934.76171875 with evaluation : 0.006378404330462217
+tensor(-0.0096) tensor(14195.9531)
+validating on batch18.0 on epoch 1 with loss 14195.943359375 with evaluation : 0.00628600874915719
+tensor(-0.0048) tensor(13962.8750)
+validating on batch19.0 on epoch 1 with loss 13962.8701171875 with evaluation : 0.006118328310549259
+tensor(-0.0121) tensor(14080.2598)
+validating on batch20.0 on epoch 1 with loss 14080.248046875 with evaluation : 0.006184432655572891
+tensor(-0.0125) tensor(14259.4248)
+validating on batch21.0 on epoch 1 with loss 14259.412109375 with evaluation : 0.0062395259737968445
+tensor(-0.0091) tensor(14104.8945)
+validating on batch22.0 on epoch 1 with loss 14104.8857421875 with evaluation : 0.006249777507036924
+tensor(-0.0161) tensor(14085.1436)
+validating on batch23.0 on epoch 1 with loss 14085.1279296875 with evaluation : 0.0063803899101912975
+tensor(-0.0118) tensor(14114.4521)
+validating on batch24.0 on epoch 1 with loss 14114.4404296875 with evaluation : 0.00636285962536931
+tensor(-0.0141) tensor(13818.6826)
+validating on batch25.0 on epoch 1 with loss 13818.6689453125 with evaluation : 0.006450674496591091
+tensor(-0.0150) tensor(14482.3447)
+validating on batch26.0 on epoch 1 with loss 14482.330078125 with evaluation : 0.006561857182532549
+tensor(-0.0104) tensor(13921.4668)
+validating on batch27.0 on epoch 1 with loss 13921.4560546875 with evaluation : 0.0065834238193929195
+tensor(-0.0089) tensor(13830.8398)
+validating on batch28.0 on epoch 1 with loss 13830.8310546875 with evaluation : 0.006521039642393589
+tensor(-0.0096) tensor(13524.8936)
+validating on batch29.0 on epoch 1 with loss 13524.8837890625 with evaluation : 0.00652520963922143
+tensor(-0.0112) tensor(14756.4658)
+validating on batch30.0 on epoch 1 with loss 14756.455078125 with evaluation : 0.006531417369842529
+tensor(-0.0115) tensor(13723.0176)
+validating on batch31.0 on epoch 1 with loss 13723.005859375 with evaluation : 0.006528379395604134
+tensor(-0.0107) tensor(13750.3730)
+validating on batch32.0 on epoch 1 with loss 13750.3623046875 with evaluation : 0.006530167534947395
+tensor(-0.0056) tensor(14258.1836)
+validating on batch33.0 on epoch 1 with loss 14258.177734375 with evaluation : 0.006427507847547531
+tensor(-0.0074) tensor(14090.6924)
+validating on batch34.0 on epoch 1 with loss 14090.6845703125 with evaluation : 0.0063170320354402065
+tensor(-0.0129) tensor(13909.4375)
+validating on batch35.0 on epoch 1 with loss 13909.4248046875 with evaluation : 0.006388958543539047
+tensor(-0.0078) tensor(13654.2969)
+validating on batch36.0 on epoch 1 with loss 13654.2890625 with evaluation : 0.006322834640741348
+tensor(-0.0073) tensor(14211.5996)
+validating on batch37.0 on epoch 1 with loss 14211.5927734375 with evaluation : 0.006245569791644812
+tensor(-0.0146) tensor(14112.1650)
+validating on batch38.0 on epoch 1 with loss 14112.150390625 with evaluation : 0.006344437599182129
+tensor(-0.0137) tensor(14557.3613)
+validating on batch39.0 on epoch 1 with loss 14557.34765625 with evaluation : 0.006406159605830908
+tensor(-0.0087) tensor(14464.3750)
+validating on batch40.0 on epoch 1 with loss 14464.3662109375 with evaluation : 0.006326767615973949
+tensor(-0.0126) tensor(14309.4121)
+validating on batch41.0 on epoch 1 with loss 14309.3994140625 with evaluation : 0.006361904554069042
+tensor(-0.0097) tensor(13677.9668)
+validating on batch42.0 on epoch 1 with loss 13677.95703125 with evaluation : 0.006370662245899439
+tensor(-0.0160) tensor(14147.7793)
+validating on batch43.0 on epoch 1 with loss 14147.763671875 with evaluation : 0.006456527393311262
+tensor(-0.0145) tensor(13949.1484)
+validating on batch44.0 on epoch 1 with loss 13949.1337890625 with evaluation : 0.0064863646402955055
+tensor(-0.0116) tensor(13764.6992)
+validating on batch45.0 on epoch 1 with loss 13764.6875 with evaluation : 0.006521592848002911
+tensor(-0.0118) tensor(13975.4219)
+validating on batch46.0 on epoch 1 with loss 13975.41015625 with evaluation : 0.00653870077803731
+tensor(-0.0148) tensor(14141.8711)
+validating on batch47.0 on epoch 1 with loss 14141.8564453125 with evaluation : 0.006567577365785837
+tensor(-0.0146) tensor(14017.4658)
+validating on batch48.0 on epoch 1 with loss 14017.451171875 with evaluation : 0.006645077373832464
+tensor(-0.0092) tensor(14077.3037)
+validating on batch49.0 on epoch 1 with loss 14077.294921875 with evaluation : 0.00664183683693409
+tensor(-0.0094) tensor(13378.9150)
+validating on batch50.0 on epoch 1 with loss 13378.9052734375 with evaluation : 0.006601301021873951
+tensor(-0.0143) tensor(14324.4521)
+validating on batch51.0 on epoch 1 with loss 14324.4375 with evaluation : 0.006642283871769905
+tensor(-0.0144) tensor(14104.7510)
+validating on batch52.0 on epoch 1 with loss 14104.736328125 with evaluation : 0.006697525270283222
+tensor(-0.0126) tensor(11227.9551)
+validating on batch53.0 on epoch 1 with loss 11227.9423828125 with evaluation : 0.006707946304231882
+tensor(-0.0073) tensor(14024.9521)
+validating on batch54.0 on epoch 1 with loss 14024.9453125 with evaluation : 0.006673718802630901
+tensor(-0.0106) tensor(13989.6973)
+validating on batch55.0 on epoch 1 with loss 13989.6865234375 with evaluation : 0.006663497071713209
+tensor(-0.0114) tensor(13926.6250)
+validating on batch56.0 on epoch 1 with loss 13926.61328125 with evaluation : 0.006645760498940945
+tensor(-0.0139) tensor(14514.2471)
+validating on batch57.0 on epoch 1 with loss 14514.2333984375 with evaluation : 0.006649165414273739
+tensor(-0.0064) tensor(13766.0918)
+validating on batch58.0 on epoch 1 with loss 13766.0849609375 with evaluation : 0.006609390489757061
+tensor(-0.0158) tensor(14220.4023)
+validating on batch59.0 on epoch 1 with loss 14220.38671875 with evaluation : 0.00664868438616395
+tensor(-0.0103) tensor(14127.7168)
+validating on batch60.0 on epoch 1 with loss 14127.7060546875 with evaluation : 0.006634606514126062
+tensor(-0.0101) tensor(13799.6621)
+validating on batch61.0 on epoch 1 with loss 13799.65234375 with evaluation : 0.006627571769058704
+tensor(-0.0144) tensor(13729.6201)
+validating on batch62.0 on epoch 1 with loss 13729.60546875 with evaluation : 0.006661131512373686
+tensor(-0.0086) tensor(13549.4609)
+validating on batch63.0 on epoch 1 with loss 13549.4521484375 with evaluation : 0.006626826245337725
+tensor(-0.0079) tensor(13907.6543)
+validating on batch64.0 on epoch 1 with loss 13907.646484375 with evaluation : 0.006601496133953333
+tensor(-0.0068) tensor(14054.6670)
+validating on batch65.0 on epoch 1 with loss 14054.66015625 with evaluation : 0.006569965276867151
+tensor(-0.0155) tensor(14231.5225)
+validating on batch66.0 on epoch 1 with loss 14231.5068359375 with evaluation : 0.00657866382971406
+tensor(-0.0119) tensor(14143.8096)
+validating on batch67.0 on epoch 1 with loss 14143.7978515625 with evaluation : 0.006596647202968597
+1###8327.001973920467###14019.050450942095###0.20426800847053528###0.006596647202968597
+tensor(-0.0133, grad_fn=<MeanBackward0>) tensor(13628.5732, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch0.0 on epoch 2 with loss 13628.5595703125 with evaluation : 0.008227391168475151
+tensor(-0.0108, grad_fn=<MeanBackward0>) tensor(14253.4033, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch1.0 on epoch 2 with loss 14253.392578125 with evaluation : 0.0077140540815889835
+tensor(-0.0095, grad_fn=<MeanBackward0>) tensor(13714.6846, grad_fn=<CopyBackwards>)
+tensor(0.0058)
+training on batch2.0 on epoch 2 with loss 13714.6748046875 with evaluation : 0.007079008966684341
+tensor(-0.0183, grad_fn=<MeanBackward0>) tensor(13222.2900, grad_fn=<CopyBackwards>)
+tensor(0.0110)
+training on batch3.0 on epoch 2 with loss 13222.271484375 with evaluation : 0.008048437535762787
+tensor(-0.0186, grad_fn=<MeanBackward0>) tensor(13235.1074, grad_fn=<CopyBackwards>)
+tensor(0.0113)
+training on batch4.0 on epoch 2 with loss 13235.0888671875 with evaluation : 0.008703959174454212
+tensor(-0.0081, grad_fn=<MeanBackward0>) tensor(13588.1182, grad_fn=<CopyBackwards>)
+tensor(0.0055)
+training on batch5.0 on epoch 2 with loss 13588.1103515625 with evaluation : 0.008168783038854599
+tensor(-0.0102, grad_fn=<MeanBackward0>) tensor(13386.4023, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch6.0 on epoch 2 with loss 13386.392578125 with evaluation : 0.007850488647818565
+tensor(-0.0084, grad_fn=<MeanBackward0>) tensor(12960.4287, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch7.0 on epoch 2 with loss 12960.419921875 with evaluation : 0.0076036942191421986
+tensor(-0.0084, grad_fn=<MeanBackward0>) tensor(13316.4258, grad_fn=<CopyBackwards>)
+tensor(0.0045)
+training on batch8.0 on epoch 2 with loss 13316.4169921875 with evaluation : 0.0072613367810845375
+tensor(-0.0170, grad_fn=<MeanBackward0>) tensor(12447.3643, grad_fn=<CopyBackwards>)
+tensor(0.0103)
+training on batch9.0 on epoch 2 with loss 12447.34765625 with evaluation : 0.007564266212284565
+tensor(-0.0098, grad_fn=<MeanBackward0>) tensor(13282.8193, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch10.0 on epoch 2 with loss 13282.8095703125 with evaluation : 0.007352298591285944
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(13343.1396, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch11.0 on epoch 2 with loss 13343.1279296875 with evaluation : 0.0072347261011600494
+tensor(-0.0099, grad_fn=<MeanBackward0>) tensor(13794.2998, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch12.0 on epoch 2 with loss 13794.2900390625 with evaluation : 0.007194957695901394
+tensor(-0.0101, grad_fn=<MeanBackward0>) tensor(13512.4570, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch13.0 on epoch 2 with loss 13512.447265625 with evaluation : 0.007170549593865871
+tensor(-0.0105, grad_fn=<MeanBackward0>) tensor(14423.3955, grad_fn=<CopyBackwards>)
+tensor(0.0060)
+training on batch14.0 on epoch 2 with loss 14423.384765625 with evaluation : 0.007091076113283634
+tensor(-0.0134, grad_fn=<MeanBackward0>) tensor(13750.2734, grad_fn=<CopyBackwards>)
+tensor(0.0091)
+training on batch15.0 on epoch 2 with loss 13750.259765625 with evaluation : 0.007219708524644375
+tensor(-0.0106, grad_fn=<MeanBackward0>) tensor(13657.8418, grad_fn=<CopyBackwards>)
+tensor(0.0056)
+training on batch16.0 on epoch 2 with loss 13657.8310546875 with evaluation : 0.007125739008188248
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(13057.6475, grad_fn=<CopyBackwards>)
+tensor(0.0074)
+training on batch17.0 on epoch 2 with loss 13057.6357421875 with evaluation : 0.007139444351196289
+tensor(-0.0080, grad_fn=<MeanBackward0>) tensor(14418.0674, grad_fn=<CopyBackwards>)
+tensor(0.0047)
+training on batch18.0 on epoch 2 with loss 14418.0595703125 with evaluation : 0.007009909953922033
+tensor(-0.0102, grad_fn=<MeanBackward0>) tensor(12924.7559, grad_fn=<CopyBackwards>)
+tensor(0.0080)
+training on batch19.0 on epoch 2 with loss 12924.74609375 with evaluation : 0.0070577943697571754
+tensor(-0.0103, grad_fn=<MeanBackward0>) tensor(13445.5938, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch20.0 on epoch 2 with loss 13445.5830078125 with evaluation : 0.00707835191860795
+tensor(-0.0100, grad_fn=<MeanBackward0>) tensor(13215.7188, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch21.0 on epoch 2 with loss 13215.708984375 with evaluation : 0.007071018684655428
+tensor(-0.0170, grad_fn=<MeanBackward0>) tensor(13554.3926, grad_fn=<CopyBackwards>)
+tensor(0.0090)
+training on batch22.0 on epoch 2 with loss 13554.3759765625 with evaluation : 0.007156037725508213
+tensor(-0.0080, grad_fn=<MeanBackward0>) tensor(13664.2480, grad_fn=<CopyBackwards>)
+tensor(0.0044)
+training on batch23.0 on epoch 2 with loss 13664.240234375 with evaluation : 0.007042242679744959
+tensor(-0.0081, grad_fn=<MeanBackward0>) tensor(13993.7598, grad_fn=<CopyBackwards>)
+tensor(0.0057)
+training on batch24.0 on epoch 2 with loss 13993.751953125 with evaluation : 0.0069905053824186325
+tensor(-0.0131, grad_fn=<MeanBackward0>) tensor(12894.2520, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch25.0 on epoch 2 with loss 12894.2392578125 with evaluation : 0.0069975582882761955
+tensor(-0.0099, grad_fn=<MeanBackward0>) tensor(13813.8057, grad_fn=<CopyBackwards>)
+tensor(0.0043)
+training on batch26.0 on epoch 2 with loss 13813.7958984375 with evaluation : 0.00689716637134552
+tensor(-0.0145, grad_fn=<MeanBackward0>) tensor(13720.7676, grad_fn=<CopyBackwards>)
+tensor(0.0070)
+training on batch27.0 on epoch 2 with loss 13720.7529296875 with evaluation : 0.006901740096509457
+tensor(-0.0083, grad_fn=<MeanBackward0>) tensor(13209.2344, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch28.0 on epoch 2 with loss 13209.2255859375 with evaluation : 0.006834087893366814
+tensor(-0.0092, grad_fn=<MeanBackward0>) tensor(12740.2900, grad_fn=<CopyBackwards>)
+tensor(0.0054)
+training on batch29.0 on epoch 2 with loss 12740.28125 with evaluation : 0.006786845158785582
+tensor(-0.0121, grad_fn=<MeanBackward0>) tensor(12302.2334, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch30.0 on epoch 2 with loss 12302.2216796875 with evaluation : 0.006847802549600601
+tensor(-0.0167, grad_fn=<MeanBackward0>) tensor(13025.8701, grad_fn=<CopyBackwards>)
+tensor(0.0093)
+training on batch31.0 on epoch 2 with loss 13025.853515625 with evaluation : 0.006924830377101898
+tensor(-0.0090, grad_fn=<MeanBackward0>) tensor(13228.6943, grad_fn=<CopyBackwards>)
+tensor(0.0055)
+training on batch32.0 on epoch 2 with loss 13228.685546875 with evaluation : 0.006881636567413807
+tensor(-0.0121, grad_fn=<MeanBackward0>) tensor(13600.4834, grad_fn=<CopyBackwards>)
+tensor(0.0084)
+training on batch33.0 on epoch 2 with loss 13600.4716796875 with evaluation : 0.0069250972010195255
+tensor(-0.0176, grad_fn=<MeanBackward0>) tensor(12702.7393, grad_fn=<CopyBackwards>)
+tensor(0.0118)
+training on batch34.0 on epoch 2 with loss 12702.7216796875 with evaluation : 0.007064918056130409
+tensor(-0.0108, grad_fn=<MeanBackward0>) tensor(12789.8574, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch35.0 on epoch 2 with loss 12789.8466796875 with evaluation : 0.0070499638095498085
+tensor(-0.0085, grad_fn=<MeanBackward0>) tensor(13250.3076, grad_fn=<CopyBackwards>)
+tensor(0.0048)
+training on batch36.0 on epoch 2 with loss 13250.298828125 with evaluation : 0.006988960318267345
+tensor(-0.0120, grad_fn=<MeanBackward0>) tensor(13924.4873, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch37.0 on epoch 2 with loss 13924.4755859375 with evaluation : 0.006978501565754414
+tensor(-0.0069, grad_fn=<MeanBackward0>) tensor(14013.7549, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch38.0 on epoch 2 with loss 14013.748046875 with evaluation : 0.0069258082658052444
+tensor(-0.0120, grad_fn=<MeanBackward0>) tensor(13474.9668, grad_fn=<CopyBackwards>)
+tensor(0.0074)
+training on batch39.0 on epoch 2 with loss 13474.955078125 with evaluation : 0.00693719694390893
+tensor(-0.0129, grad_fn=<MeanBackward0>) tensor(14201.4492, grad_fn=<CopyBackwards>)
+tensor(0.0085)
+training on batch40.0 on epoch 2 with loss 14201.4365234375 with evaluation : 0.006974831689149141
+tensor(-0.0148, grad_fn=<MeanBackward0>) tensor(13893.0742, grad_fn=<CopyBackwards>)
+tensor(0.0088)
+training on batch41.0 on epoch 2 with loss 13893.0595703125 with evaluation : 0.007018705829977989
+tensor(-0.0085, grad_fn=<MeanBackward0>) tensor(13442.6523, grad_fn=<CopyBackwards>)
+tensor(0.0043)
+training on batch42.0 on epoch 2 with loss 13442.6435546875 with evaluation : 0.00695462292060256
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(13138.6738, grad_fn=<CopyBackwards>)
+tensor(0.0077)
+training on batch43.0 on epoch 2 with loss 13138.6630859375 with evaluation : 0.006970809306949377
+tensor(-0.0145, grad_fn=<MeanBackward0>) tensor(13277.7393, grad_fn=<CopyBackwards>)
+tensor(0.0105)
+training on batch44.0 on epoch 2 with loss 13277.724609375 with evaluation : 0.007049085106700659
+tensor(-0.0121, grad_fn=<MeanBackward0>) tensor(13372.4775, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch45.0 on epoch 2 with loss 13372.4658203125 with evaluation : 0.007058919873088598
+tensor(-0.0094, grad_fn=<MeanBackward0>) tensor(13444.5186, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch46.0 on epoch 2 with loss 13444.5087890625 with evaluation : 0.007049355190247297
+tensor(-0.0095, grad_fn=<MeanBackward0>) tensor(14099.3145, grad_fn=<CopyBackwards>)
+tensor(0.0055)
+training on batch47.0 on epoch 2 with loss 14099.3046875 with evaluation : 0.007017802447080612
+tensor(-0.0129, grad_fn=<MeanBackward0>) tensor(12292.0723, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch48.0 on epoch 2 with loss 12292.0595703125 with evaluation : 0.007052904926240444
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(13655.3994, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch49.0 on epoch 2 with loss 13655.388671875 with evaluation : 0.007055732421576977
+tensor(-0.0152, grad_fn=<MeanBackward0>) tensor(13570.9082, grad_fn=<CopyBackwards>)
+tensor(0.0074)
+training on batch50.0 on epoch 2 with loss 13570.892578125 with evaluation : 0.007062425836920738
+tensor(-0.0129, grad_fn=<MeanBackward0>) tensor(13438.7480, grad_fn=<CopyBackwards>)
+tensor(0.0095)
+training on batch51.0 on epoch 2 with loss 13438.7353515625 with evaluation : 0.007110263220965862
+tensor(-0.0145, grad_fn=<MeanBackward0>) tensor(13107.7275, grad_fn=<CopyBackwards>)
+tensor(0.0070)
+training on batch52.0 on epoch 2 with loss 13107.712890625 with evaluation : 0.007109005469828844
+tensor(-0.0082, grad_fn=<MeanBackward0>) tensor(12969.1123, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch53.0 on epoch 2 with loss 12969.1044921875 with evaluation : 0.007068461272865534
+tensor(-0.0093, grad_fn=<MeanBackward0>) tensor(13446.8867, grad_fn=<CopyBackwards>)
+tensor(0.0036)
+training on batch54.0 on epoch 2 with loss 13446.876953125 with evaluation : 0.0070056249387562275
+tensor(-0.0113, grad_fn=<MeanBackward0>) tensor(13667.7617, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch55.0 on epoch 2 with loss 13667.75 with evaluation : 0.006985231768339872
+tensor(-0.0107, grad_fn=<MeanBackward0>) tensor(13443.9746, grad_fn=<CopyBackwards>)
+tensor(0.0060)
+training on batch56.0 on epoch 2 with loss 13443.9638671875 with evaluation : 0.0069678048603236675
+tensor(-0.0189, grad_fn=<MeanBackward0>) tensor(13766.6543, grad_fn=<CopyBackwards>)
+tensor(0.0127)
+training on batch57.0 on epoch 2 with loss 13766.6357421875 with evaluation : 0.007067364174872637
+tensor(-0.0124, grad_fn=<MeanBackward0>) tensor(14452.8477, grad_fn=<CopyBackwards>)
+tensor(0.0083)
+training on batch58.0 on epoch 2 with loss 14452.8349609375 with evaluation : 0.007088234648108482
+tensor(-0.0143, grad_fn=<MeanBackward0>) tensor(12732.0693, grad_fn=<CopyBackwards>)
+tensor(0.0070)
+training on batch59.0 on epoch 2 with loss 12732.0546875 with evaluation : 0.007087273057550192
+tensor(-0.0159, grad_fn=<MeanBackward0>) tensor(14577.2305, grad_fn=<CopyBackwards>)
+tensor(0.0094)
+training on batch60.0 on epoch 2 with loss 14577.21484375 with evaluation : 0.00712530268356204
+tensor(-0.0083, grad_fn=<MeanBackward0>) tensor(12859.4795, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch61.0 on epoch 2 with loss 12859.4716796875 with evaluation : 0.007094980217516422
+tensor(-0.0092, grad_fn=<MeanBackward0>) tensor(13813.0918, grad_fn=<CopyBackwards>)
+tensor(0.0046)
+training on batch62.0 on epoch 2 with loss 13813.0830078125 with evaluation : 0.007055107969790697
+tensor(-0.0069, grad_fn=<MeanBackward0>) tensor(12961.6270, grad_fn=<CopyBackwards>)
+tensor(0.0034)
+training on batch63.0 on epoch 2 with loss 12961.6201171875 with evaluation : 0.006997379474341869
+tensor(-0.0123, grad_fn=<MeanBackward0>) tensor(13100.4707, grad_fn=<CopyBackwards>)
+tensor(0.0085)
+training on batch64.0 on epoch 2 with loss 13100.4580078125 with evaluation : 0.0070210532285273075
+tensor(-0.0142, grad_fn=<MeanBackward0>) tensor(14123.8145, grad_fn=<CopyBackwards>)
+tensor(0.0094)
+training on batch65.0 on epoch 2 with loss 14123.7998046875 with evaluation : 0.0070576295256614685
+tensor(-0.0083, grad_fn=<MeanBackward0>) tensor(13578.2646, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch66.0 on epoch 2 with loss 13578.255859375 with evaluation : 0.007030146662145853
+tensor(-0.0143, grad_fn=<MeanBackward0>) tensor(13579.3750, grad_fn=<CopyBackwards>)
+tensor(0.0073)
+training on batch67.0 on epoch 2 with loss 13579.3603515625 with evaluation : 0.007033401634544134
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(12904.6748, grad_fn=<CopyBackwards>)
+tensor(0.0085)
+training on batch68.0 on epoch 2 with loss 12904.6611328125 with evaluation : 0.0070548346266150475
+tensor(-0.0113, grad_fn=<MeanBackward0>) tensor(12753.6738, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch69.0 on epoch 2 with loss 12753.662109375 with evaluation : 0.007071790285408497
+tensor(-0.0113, grad_fn=<MeanBackward0>) tensor(12798.6094, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch70.0 on epoch 2 with loss 12798.59765625 with evaluation : 0.007041477598249912
+tensor(-0.0127, grad_fn=<MeanBackward0>) tensor(12887.3350, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch71.0 on epoch 2 with loss 12887.322265625 with evaluation : 0.007043629884719849
+tensor(-0.0117, grad_fn=<MeanBackward0>) tensor(14069.2109, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch72.0 on epoch 2 with loss 14069.19921875 with evaluation : 0.007036585360765457
+tensor(-0.0139, grad_fn=<MeanBackward0>) tensor(13857.5049, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch73.0 on epoch 2 with loss 13857.4912109375 with evaluation : 0.007052142173051834
+tensor(-0.0094, grad_fn=<MeanBackward0>) tensor(14052.2812, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch74.0 on epoch 2 with loss 14052.271484375 with evaluation : 0.007046396844089031
+tensor(-0.0148, grad_fn=<MeanBackward0>) tensor(13333.5664, grad_fn=<CopyBackwards>)
+tensor(0.0095)
+training on batch75.0 on epoch 2 with loss 13333.5517578125 with evaluation : 0.0070792678743600845
+tensor(-0.0140, grad_fn=<MeanBackward0>) tensor(13040.2646, grad_fn=<CopyBackwards>)
+tensor(0.0088)
+training on batch76.0 on epoch 2 with loss 13040.2509765625 with evaluation : 0.007101803086698055
+tensor(-0.0168, grad_fn=<MeanBackward0>) tensor(13210.5605, grad_fn=<CopyBackwards>)
+tensor(0.0093)
+training on batch77.0 on epoch 2 with loss 13210.5439453125 with evaluation : 0.00713004358112812
+tensor(-0.0093, grad_fn=<MeanBackward0>) tensor(12917.4922, grad_fn=<CopyBackwards>)
+tensor(0.0063)
+training on batch78.0 on epoch 2 with loss 12917.482421875 with evaluation : 0.007119076792150736
+tensor(-0.0142, grad_fn=<MeanBackward0>) tensor(14072.8008, grad_fn=<CopyBackwards>)
+tensor(0.0079)
+training on batch79.0 on epoch 2 with loss 14072.7861328125 with evaluation : 0.0071286531165242195
+tensor(-0.0100, grad_fn=<MeanBackward0>) tensor(13449.6943, grad_fn=<CopyBackwards>)
+tensor(0.0045)
+training on batch80.0 on epoch 2 with loss 13449.6845703125 with evaluation : 0.007096768356859684
+tensor(-0.0046, grad_fn=<MeanBackward0>) tensor(13279.1172, grad_fn=<CopyBackwards>)
+tensor(0.0018)
+training on batch81.0 on epoch 2 with loss 13279.1123046875 with evaluation : 0.007031999062746763
+tensor(-0.0130, grad_fn=<MeanBackward0>) tensor(14038.0830, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch82.0 on epoch 2 with loss 14038.0703125 with evaluation : 0.007051508873701096
+tensor(-0.0144, grad_fn=<MeanBackward0>) tensor(14186.0469, grad_fn=<CopyBackwards>)
+tensor(0.0086)
+training on batch83.0 on epoch 2 with loss 14186.0322265625 with evaluation : 0.007069797720760107
+tensor(-0.0094, grad_fn=<MeanBackward0>) tensor(12840.2676, grad_fn=<CopyBackwards>)
+tensor(0.0056)
+training on batch84.0 on epoch 2 with loss 12840.2578125 with evaluation : 0.007053061854094267
+tensor(-0.0076, grad_fn=<MeanBackward0>) tensor(13988.4697, grad_fn=<CopyBackwards>)
+tensor(0.0045)
+training on batch85.0 on epoch 2 with loss 13988.4619140625 with evaluation : 0.007023032288998365
+tensor(-0.0160, grad_fn=<MeanBackward0>) tensor(13759.8271, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch86.0 on epoch 2 with loss 13759.8115234375 with evaluation : 0.007042227312922478
+tensor(-0.0116, grad_fn=<MeanBackward0>) tensor(14238.1768, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch87.0 on epoch 2 with loss 14238.1650390625 with evaluation : 0.007037039380520582
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(12702.5068, grad_fn=<CopyBackwards>)
+tensor(0.0081)
+training on batch88.0 on epoch 2 with loss 12702.4931640625 with evaluation : 0.007049457635730505
+tensor(-0.0138, grad_fn=<MeanBackward0>) tensor(13487.6201, grad_fn=<CopyBackwards>)
+tensor(0.0093)
+training on batch89.0 on epoch 2 with loss 13487.6064453125 with evaluation : 0.007074794732034206
+tensor(-0.0121, grad_fn=<MeanBackward0>) tensor(13326.2998, grad_fn=<CopyBackwards>)
+tensor(0.0086)
+training on batch90.0 on epoch 2 with loss 13326.2880859375 with evaluation : 0.007091721519827843
+tensor(-0.0106, grad_fn=<MeanBackward0>) tensor(14066.1875, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch91.0 on epoch 2 with loss 14066.1767578125 with evaluation : 0.007087371777743101
+tensor(-0.0116, grad_fn=<MeanBackward0>) tensor(13518.9893, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch92.0 on epoch 2 with loss 13518.9775390625 with evaluation : 0.007081727962940931
+tensor(-0.0114, grad_fn=<MeanBackward0>) tensor(12942.0869, grad_fn=<CopyBackwards>)
+tensor(0.0068)
+training on batch93.0 on epoch 2 with loss 12942.0751953125 with evaluation : 0.007078880909830332
+tensor(-0.0197, grad_fn=<MeanBackward0>) tensor(13473.5420, grad_fn=<CopyBackwards>)
+tensor(0.0128)
+training on batch94.0 on epoch 2 with loss 13473.5224609375 with evaluation : 0.0071391211822628975
+tensor(-0.0116, grad_fn=<MeanBackward0>) tensor(14534.6123, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch95.0 on epoch 2 with loss 14534.6005859375 with evaluation : 0.007136890199035406
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(12972.1621, grad_fn=<CopyBackwards>)
+tensor(0.0057)
+training on batch96.0 on epoch 2 with loss 12972.150390625 with evaluation : 0.00712186424061656
+tensor(-0.0139, grad_fn=<MeanBackward0>) tensor(13515.2119, grad_fn=<CopyBackwards>)
+tensor(0.0087)
+training on batch97.0 on epoch 2 with loss 13515.1982421875 with evaluation : 0.007137850858271122
+tensor(-0.0172, grad_fn=<MeanBackward0>) tensor(13607.8086, grad_fn=<CopyBackwards>)
+tensor(0.0119)
+training on batch98.0 on epoch 2 with loss 13607.791015625 with evaluation : 0.007185879163444042
+tensor(-0.0089, grad_fn=<MeanBackward0>) tensor(14412.3887, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch99.0 on epoch 2 with loss 14412.3798828125 with evaluation : 0.007172590121626854
+tensor(-0.0161, grad_fn=<MeanBackward0>) tensor(13465.3057, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch100.0 on epoch 2 with loss 13465.2890625 with evaluation : 0.00718260183930397
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(13130.1172, grad_fn=<CopyBackwards>)
+tensor(0.0077)
+training on batch101.0 on epoch 2 with loss 13130.10546875 with evaluation : 0.007188001647591591
+tensor(-0.0124, grad_fn=<MeanBackward0>) tensor(13555.5449, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch102.0 on epoch 2 with loss 13555.5322265625 with evaluation : 0.007183658890426159
+tensor(-0.0091, grad_fn=<MeanBackward0>) tensor(13654.4258, grad_fn=<CopyBackwards>)
+tensor(0.0050)
+training on batch103.0 on epoch 2 with loss 13654.4169921875 with evaluation : 0.007162745110690594
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(13496.6650, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch104.0 on epoch 2 with loss 13496.6513671875 with evaluation : 0.007160139735788107
+tensor(-0.0058, grad_fn=<MeanBackward0>) tensor(13458.3164, grad_fn=<CopyBackwards>)
+tensor(0.0040)
+training on batch105.0 on epoch 2 with loss 13458.310546875 with evaluation : 0.007130351848900318
+tensor(-0.0125, grad_fn=<MeanBackward0>) tensor(13411.3457, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch106.0 on epoch 2 with loss 13411.3330078125 with evaluation : 0.007125709671527147
+tensor(-0.0166, grad_fn=<MeanBackward0>) tensor(13899.5771, grad_fn=<CopyBackwards>)
+tensor(0.0116)
+training on batch107.0 on epoch 2 with loss 13899.560546875 with evaluation : 0.007167208939790726
+tensor(-0.0095, grad_fn=<MeanBackward0>) tensor(14126.4746, grad_fn=<CopyBackwards>)
+tensor(0.0049)
+training on batch108.0 on epoch 2 with loss 14126.46484375 with evaluation : 0.007146023213863373
+tensor(-0.0093, grad_fn=<MeanBackward0>) tensor(13793.8721, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch109.0 on epoch 2 with loss 13793.8623046875 with evaluation : 0.007143944036215544
+tensor(-0.0097, grad_fn=<MeanBackward0>) tensor(13512.4443, grad_fn=<CopyBackwards>)
+tensor(0.0041)
+training on batch110.0 on epoch 2 with loss 13512.4345703125 with evaluation : 0.007116935681551695
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(13537.9170, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch111.0 on epoch 2 with loss 13537.9052734375 with evaluation : 0.007105907890945673
+tensor(-0.0088, grad_fn=<MeanBackward0>) tensor(13323.0508, grad_fn=<CopyBackwards>)
+tensor(0.0039)
+training on batch112.0 on epoch 2 with loss 13323.0419921875 with evaluation : 0.007077355403453112
+tensor(-0.0158, grad_fn=<MeanBackward0>) tensor(13675.6260, grad_fn=<CopyBackwards>)
+tensor(0.0110)
+training on batch113.0 on epoch 2 with loss 13675.6103515625 with evaluation : 0.007112044375389814
+tensor(-0.0156, grad_fn=<MeanBackward0>) tensor(13554.6289, grad_fn=<CopyBackwards>)
+tensor(0.0092)
+training on batch114.0 on epoch 2 with loss 13554.61328125 with evaluation : 0.007130208425223827
+tensor(-0.0134, grad_fn=<MeanBackward0>) tensor(12736.0244, grad_fn=<CopyBackwards>)
+tensor(0.0078)
+training on batch115.0 on epoch 2 with loss 12736.0107421875 with evaluation : 0.007136295083910227
+tensor(-0.0162, grad_fn=<MeanBackward0>) tensor(12815.9922, grad_fn=<CopyBackwards>)
+tensor(0.0085)
+training on batch116.0 on epoch 2 with loss 12815.9755859375 with evaluation : 0.007147646974772215
+tensor(-0.0100, grad_fn=<MeanBackward0>) tensor(13485.0801, grad_fn=<CopyBackwards>)
+tensor(0.0062)
+training on batch117.0 on epoch 2 with loss 13485.0703125 with evaluation : 0.007139888126403093
+tensor(-0.0188, grad_fn=<MeanBackward0>) tensor(13947.2051, grad_fn=<CopyBackwards>)
+tensor(0.0107)
+training on batch118.0 on epoch 2 with loss 13947.1865234375 with evaluation : 0.007169803138822317
+tensor(-0.0090, grad_fn=<MeanBackward0>) tensor(13307.4844, grad_fn=<CopyBackwards>)
+tensor(0.0052)
+training on batch119.0 on epoch 2 with loss 13307.4755859375 with evaluation : 0.00715339370071888
+tensor(-0.0117, grad_fn=<MeanBackward0>) tensor(14725.9336, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch120.0 on epoch 2 with loss 14725.921875 with evaluation : 0.0071536167524755
+tensor(-0.0089, grad_fn=<MeanBackward0>) tensor(13295.1797, grad_fn=<CopyBackwards>)
+tensor(0.0064)
+training on batch121.0 on epoch 2 with loss 13295.1708984375 with evaluation : 0.007147647440433502
+tensor(-0.0052, grad_fn=<MeanBackward0>) tensor(13081.8311, grad_fn=<CopyBackwards>)
+tensor(0.0026)
+training on batch122.0 on epoch 2 with loss 13081.826171875 with evaluation : 0.007110566832125187
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(14019.5498, grad_fn=<CopyBackwards>)
+tensor(0.0072)
+training on batch123.0 on epoch 2 with loss 14019.5380859375 with evaluation : 0.007111135870218277
+tensor(-0.0066, grad_fn=<MeanBackward0>) tensor(12845.5898, grad_fn=<CopyBackwards>)
+tensor(0.0034)
+training on batch124.0 on epoch 2 with loss 12845.5830078125 with evaluation : 0.007081612944602966
+tensor(-0.0068, grad_fn=<MeanBackward0>) tensor(13303.4346, grad_fn=<CopyBackwards>)
+tensor(0.0050)
+training on batch125.0 on epoch 2 with loss 13303.427734375 with evaluation : 0.007065410725772381
+tensor(-0.0132, grad_fn=<MeanBackward0>) tensor(13279.5537, grad_fn=<CopyBackwards>)
+tensor(0.0081)
+training on batch126.0 on epoch 2 with loss 13279.5400390625 with evaluation : 0.007073398679494858
+tensor(-0.0138, grad_fn=<MeanBackward0>) tensor(13572.6650, grad_fn=<CopyBackwards>)
+tensor(0.0065)
+training on batch127.0 on epoch 2 with loss 13572.6513671875 with evaluation : 0.007069033570587635
+tensor(-0.0092, grad_fn=<MeanBackward0>) tensor(13867.6338, grad_fn=<CopyBackwards>)
+tensor(0.0055)
+training on batch128.0 on epoch 2 with loss 13867.625 with evaluation : 0.00705701345577836
+tensor(-0.0110, grad_fn=<MeanBackward0>) tensor(13786.8506, grad_fn=<CopyBackwards>)
+tensor(0.0059)
+training on batch129.0 on epoch 2 with loss 13786.83984375 with evaluation : 0.007048019673675299
+tensor(-0.0138, grad_fn=<MeanBackward0>) tensor(13600.4248, grad_fn=<CopyBackwards>)
+tensor(0.0108)
+training on batch130.0 on epoch 2 with loss 13600.4111328125 with evaluation : 0.007076471112668514
+tensor(-0.0188, grad_fn=<MeanBackward0>) tensor(12804.3574, grad_fn=<CopyBackwards>)
+tensor(0.0119)
+training on batch131.0 on epoch 2 with loss 12804.3388671875 with evaluation : 0.007112777326256037
+tensor(-0.0149, grad_fn=<MeanBackward0>) tensor(13295.2363, grad_fn=<CopyBackwards>)
+tensor(0.0099)
+training on batch132.0 on epoch 2 with loss 13295.2216796875 with evaluation : 0.007133448962122202
+tensor(-0.0112, grad_fn=<MeanBackward0>) tensor(13113.2256, grad_fn=<CopyBackwards>)
+tensor(0.0079)
+training on batch133.0 on epoch 2 with loss 13113.21484375 with evaluation : 0.007138904184103012
+tensor(-0.0088, grad_fn=<MeanBackward0>) tensor(14665.8145, grad_fn=<CopyBackwards>)
+tensor(0.0056)
+training on batch134.0 on epoch 2 with loss 14665.8056640625 with evaluation : 0.007127347867935896
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(13246.3125, grad_fn=<CopyBackwards>)
+tensor(0.0075)
+training on batch135.0 on epoch 2 with loss 13246.30078125 with evaluation : 0.0071297744289040565
+tensor(-0.0115, grad_fn=<MeanBackward0>) tensor(12966.8535, grad_fn=<CopyBackwards>)
+tensor(0.0082)
+training on batch136.0 on epoch 2 with loss 12966.841796875 with evaluation : 0.007137618493288755
+tensor(-0.0063, grad_fn=<MeanBackward0>) tensor(14393.9072, grad_fn=<CopyBackwards>)
+tensor(0.0041)
+training on batch137.0 on epoch 2 with loss 14393.9013671875 with evaluation : 0.007115805521607399
+tensor(-0.0127, grad_fn=<MeanBackward0>) tensor(13407.5371, grad_fn=<CopyBackwards>)
+tensor(0.0083)
+training on batch138.0 on epoch 2 with loss 13407.5244140625 with evaluation : 0.007124030962586403
+tensor(-0.0077, grad_fn=<MeanBackward0>) tensor(12981.6650, grad_fn=<CopyBackwards>)
+tensor(0.0040)
+training on batch139.0 on epoch 2 with loss 12981.6572265625 with evaluation : 0.0071019805036485195
+tensor(-0.0145, grad_fn=<MeanBackward0>) tensor(13387.8447, grad_fn=<CopyBackwards>)
+tensor(0.0093)
+training on batch140.0 on epoch 2 with loss 13387.830078125 with evaluation : 0.007117833010852337
+tensor(-0.0117, grad_fn=<MeanBackward0>) tensor(13546.2246, grad_fn=<CopyBackwards>)
+tensor(0.0066)
+training on batch141.0 on epoch 2 with loss 13546.212890625 with evaluation : 0.0071141417138278484
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(13755.6143, grad_fn=<CopyBackwards>)
+tensor(0.0104)
+training on batch142.0 on epoch 2 with loss 13755.6005859375 with evaluation : 0.00713731674477458
+tensor(-0.0069, grad_fn=<MeanBackward0>) tensor(13974.2646, grad_fn=<CopyBackwards>)
+tensor(0.0035)
+training on batch143.0 on epoch 2 with loss 13974.2578125 with evaluation : 0.007111791055649519
+tensor(-0.0079, grad_fn=<MeanBackward0>) tensor(13828.3643, grad_fn=<CopyBackwards>)
+tensor(0.0047)
+training on batch144.0 on epoch 2 with loss 13828.3564453125 with evaluation : 0.007094941567629576
+tensor(-0.0114, grad_fn=<MeanBackward0>) tensor(12918.3818, grad_fn=<CopyBackwards>)
+tensor(0.0077)
+training on batch145.0 on epoch 2 with loss 12918.3701171875 with evaluation : 0.007098954636603594
+tensor(-0.0089, grad_fn=<MeanBackward0>) tensor(13193.1123, grad_fn=<CopyBackwards>)
+tensor(0.0058)
+training on batch146.0 on epoch 2 with loss 13193.103515625 with evaluation : 0.0070903105661273
+tensor(-0.0132, grad_fn=<MeanBackward0>) tensor(13095.7676, grad_fn=<CopyBackwards>)
+tensor(0.0086)
+training on batch147.0 on epoch 2 with loss 13095.75390625 with evaluation : 0.0071002645418047905
+tensor(-0.0062, grad_fn=<MeanBackward0>) tensor(13487.3320, grad_fn=<CopyBackwards>)
+tensor(0.0037)
+training on batch148.0 on epoch 2 with loss 13487.326171875 with evaluation : 0.00707749230787158
+tensor(-0.0058, grad_fn=<MeanBackward0>) tensor(14514.2822, grad_fn=<CopyBackwards>)
+tensor(0.0036)
+training on batch149.0 on epoch 2 with loss 14514.2763671875 with evaluation : 0.007054349407553673
+tensor(-0.0109, grad_fn=<MeanBackward0>) tensor(13720.9219, grad_fn=<CopyBackwards>)
+tensor(0.0063)
+training on batch150.0 on epoch 2 with loss 13720.9111328125 with evaluation : 0.007049333304166794
+tensor(-0.0089, grad_fn=<MeanBackward0>) tensor(13323.2510, grad_fn=<CopyBackwards>)
+tensor(0.0056)
+training on batch151.0 on epoch 2 with loss 13323.2421875 with evaluation : 0.007040117867290974
+tensor(-0.0137, grad_fn=<MeanBackward0>) tensor(13187.8018, grad_fn=<CopyBackwards>)
+tensor(0.0069)
+training on batch152.0 on epoch 2 with loss 13187.7880859375 with evaluation : 0.007039154414087534
+tensor(-0.0124, grad_fn=<MeanBackward0>) tensor(13157.2061, grad_fn=<CopyBackwards>)
+tensor(0.0070)
+training on batch153.0 on epoch 2 with loss 13157.193359375 with evaluation : 0.007038732524961233
+tensor(-0.0167, grad_fn=<MeanBackward0>) tensor(13471.5898, grad_fn=<CopyBackwards>)
+tensor(0.0091)
+training on batch154.0 on epoch 2 with loss 13471.5732421875 with evaluation : 0.007051787804812193
+tensor(-0.0105, grad_fn=<MeanBackward0>) tensor(14356.0010, grad_fn=<CopyBackwards>)
+tensor(0.0051)
+training on batch155.0 on epoch 2 with loss 14355.990234375 with evaluation : 0.00703903054818511
+tensor(-0.0126, grad_fn=<MeanBackward0>) tensor(13397.0742, grad_fn=<CopyBackwards>)
+tensor(0.0071)
+training on batch156.0 on epoch 2 with loss 13397.0615234375 with evaluation : 0.007039528805762529
+tensor(-0.0119, grad_fn=<MeanBackward0>) tensor(13557.0156, grad_fn=<CopyBackwards>)
+tensor(0.0062)
+training on batch157.0 on epoch 2 with loss 13557.00390625 with evaluation : 0.007034408859908581
+tensor(-0.0100, grad_fn=<MeanBackward0>) tensor(13691.6250, grad_fn=<CopyBackwards>)
+tensor(0.0067)
+training on batch158.0 on epoch 2 with loss 13691.615234375 with evaluation : 0.007032233290374279
+tensor(-0.0130, grad_fn=<MeanBackward0>) tensor(13858.0488, grad_fn=<CopyBackwards>)
+tensor(0.0089)
+training on batch159.0 on epoch 2 with loss 13858.0361328125 with evaluation : 0.007044041063636541
+tensor(-0.0155, grad_fn=<MeanBackward0>) tensor(14109.6836, grad_fn=<CopyBackwards>)
+tensor(0.0097)
+training on batch160.0 on epoch 2 with loss 14109.66796875 with evaluation : 0.007060715928673744
+tensor(-0.0172, grad_fn=<MeanBackward0>) tensor(14271.9883, grad_fn=<CopyBackwards>)
+tensor(0.0098)
+training on batch161.0 on epoch 2 with loss 14271.970703125 with evaluation : 0.007077841088175774
+tensor(-0.0090, grad_fn=<MeanBackward0>) tensor(13358.5684, grad_fn=<CopyBackwards>)
+tensor(0.0057)
+training on batch162.0 on epoch 2 with loss 13358.5595703125 with evaluation : 0.007069350685924292
+tensor(-0.0096, grad_fn=<MeanBackward0>) tensor(13414.7832, grad_fn=<CopyBackwards>)
+tensor(0.0043)
+training on batch163.0 on epoch 2 with loss 13414.7734375 with evaluation : 0.00705230375751853
+tensor(-0.0173, grad_fn=<MeanBackward0>) tensor(12960.4307, grad_fn=<CopyBackwards>)
+tensor(0.0111)
+training on batch164.0 on epoch 2 with loss 12960.4130859375 with evaluation : 0.0070767467841506
+tensor(-0.0118, grad_fn=<MeanBackward0>) tensor(14153.3398, grad_fn=<CopyBackwards>)
+tensor(0.0064)
+training on batch165.0 on epoch 2 with loss 14153.328125 with evaluation : 0.0070728459395468235
+tensor(-0.0124) tensor(14417.8770)
+validating on batch0.0 on epoch 2 with loss 14417.8642578125 with evaluation : 0.007214598823338747
+tensor(-0.0141) tensor(14292.3018)
+validating on batch1.0 on epoch 2 with loss 14292.2880859375 with evaluation : 0.007824026048183441
+tensor(-0.0106) tensor(13724.4209)
+validating on batch2.0 on epoch 2 with loss 13724.41015625 with evaluation : 0.007805132772773504
+tensor(-0.0166) tensor(14121.3193)
+validating on batch3.0 on epoch 2 with loss 14121.302734375 with evaluation : 0.008400803431868553
+tensor(-0.0147) tensor(14693.0195)
+validating on batch4.0 on epoch 2 with loss 14693.0048828125 with evaluation : 0.008703949861228466
+tensor(-0.0130) tensor(14470.2295)
+validating on batch5.0 on epoch 2 with loss 14470.216796875 with evaluation : 0.008543473668396473
+tensor(-0.0078) tensor(14034.6484)
+validating on batch6.0 on epoch 2 with loss 14034.640625 with evaluation : 0.007862488739192486
+tensor(-0.0127) tensor(14393.0850)
+validating on batch7.0 on epoch 2 with loss 14393.072265625 with evaluation : 0.007619377225637436
+tensor(-0.0086) tensor(14300.)
+validating on batch8.0 on epoch 2 with loss 14299.9912109375 with evaluation : 0.007373287342488766
+tensor(-0.0123) tensor(14410.5000)
+validating on batch9.0 on epoch 2 with loss 14410.4873046875 with evaluation : 0.007419799920171499
+tensor(-0.0082) tensor(14430.6855)
+validating on batch10.0 on epoch 2 with loss 14430.677734375 with evaluation : 0.007159982807934284
+tensor(-0.0110) tensor(14464.5225)
+validating on batch11.0 on epoch 2 with loss 14464.51171875 with evaluation : 0.007052557077258825
+tensor(-0.0091) tensor(14166.7910)
+validating on batch12.0 on epoch 2 with loss 14166.7822265625 with evaluation : 0.006925501395016909
+tensor(-0.0105) tensor(11080.2510)
+validating on batch13.0 on epoch 2 with loss 11080.240234375 with evaluation : 0.0068368068896234035
+tensor(-0.0127) tensor(14411.7109)
+validating on batch14.0 on epoch 2 with loss 14411.6982421875 with evaluation : 0.006834871135652065
+tensor(-0.0159) tensor(14529.2080)
+validating on batch15.0 on epoch 2 with loss 14529.1923828125 with evaluation : 0.006980997044593096
+tensor(-0.0041) tensor(14754.0049)
+validating on batch16.0 on epoch 2 with loss 14754.0009765625 with evaluation : 0.00669068330898881
+tensor(-0.0073) tensor(13969.6855)
+validating on batch17.0 on epoch 2 with loss 13969.6787109375 with evaluation : 0.006603211630135775
+tensor(-0.0138) tensor(13752.1982)
+validating on batch18.0 on epoch 2 with loss 13752.1845703125 with evaluation : 0.006713406648486853
+tensor(-0.0129) tensor(13806.0576)
+validating on batch19.0 on epoch 2 with loss 13806.044921875 with evaluation : 0.006838308181613684
+tensor(-0.0066) tensor(14491.4326)
+validating on batch20.0 on epoch 2 with loss 14491.42578125 with evaluation : 0.006600276567041874
+tensor(-0.0148) tensor(14528.1943)
+validating on batch21.0 on epoch 2 with loss 14528.1796875 with evaluation : 0.006735777482390404
+tensor(-0.0098) tensor(13447.6768)
+validating on batch22.0 on epoch 2 with loss 13447.6669921875 with evaluation : 0.0066942875273525715
+tensor(-0.0149) tensor(14379.2520)
+validating on batch23.0 on epoch 2 with loss 14379.2373046875 with evaluation : 0.006791083142161369
+tensor(-0.0155) tensor(14213.4922)
+validating on batch24.0 on epoch 2 with loss 14213.4765625 with evaluation : 0.0069476584903895855
+tensor(-0.0107) tensor(13540.4727)
+validating on batch25.0 on epoch 2 with loss 13540.4619140625 with evaluation : 0.00698719872161746
+tensor(-0.0084) tensor(13975.4648)
+validating on batch26.0 on epoch 2 with loss 13975.4560546875 with evaluation : 0.006916215177625418
+tensor(-0.0096) tensor(14060.0537)
+validating on batch27.0 on epoch 2 with loss 14060.0439453125 with evaluation : 0.00684346491470933
+tensor(-0.0144) tensor(14228.2646)
+validating on batch28.0 on epoch 2 with loss 14228.25 with evaluation : 0.006902514956891537
+tensor(-0.0103) tensor(14509.1123)
+validating on batch29.0 on epoch 2 with loss 14509.1015625 with evaluation : 0.006799692288041115
+tensor(-0.0093) tensor(13469.4238)
+validating on batch30.0 on epoch 2 with loss 13469.4140625 with evaluation : 0.006770105101168156
+tensor(-0.0075) tensor(13487.1094)
+validating on batch31.0 on epoch 2 with loss 13487.1015625 with evaluation : 0.0067138150334358215
+tensor(-0.0061) tensor(14455.1572)
+validating on batch32.0 on epoch 2 with loss 14455.1513671875 with evaluation : 0.006592057645320892
+tensor(-0.0147) tensor(14443.4492)
+validating on batch33.0 on epoch 2 with loss 14443.4345703125 with evaluation : 0.006658103317022324
+tensor(-0.0129) tensor(14699.7852)
+validating on batch34.0 on epoch 2 with loss 14699.7724609375 with evaluation : 0.006632363889366388
+tensor(-0.0066) tensor(14635.6348)
+validating on batch35.0 on epoch 2 with loss 14635.6279296875 with evaluation : 0.006534109823405743
+tensor(-0.0111) tensor(14071.8994)
+validating on batch36.0 on epoch 2 with loss 14071.888671875 with evaluation : 0.0065411971881985664
+tensor(-0.0121) tensor(14058.5020)
+validating on batch37.0 on epoch 2 with loss 14058.490234375 with evaluation : 0.006584689952433109
+tensor(-0.0085) tensor(13684.8857)
+validating on batch38.0 on epoch 2 with loss 13684.876953125 with evaluation : 0.006497930269688368
+tensor(-0.0138) tensor(14004.4023)
+validating on batch39.0 on epoch 2 with loss 14004.388671875 with evaluation : 0.006560531444847584
+tensor(-0.0124) tensor(14243.5156)
+validating on batch40.0 on epoch 2 with loss 14243.5029296875 with evaluation : 0.006607869639992714
+tensor(-0.0131) tensor(14147.3242)
+validating on batch41.0 on epoch 2 with loss 14147.3115234375 with evaluation : 0.006626491900533438
+tensor(-0.0114) tensor(14093.1973)
+validating on batch42.0 on epoch 2 with loss 14093.185546875 with evaluation : 0.0066285813227295876
+tensor(-0.0098) tensor(14336.5859)
+validating on batch43.0 on epoch 2 with loss 14336.576171875 with evaluation : 0.006610818672925234
+tensor(-0.0069) tensor(14077.0371)
+validating on batch44.0 on epoch 2 with loss 14077.0302734375 with evaluation : 0.006539883092045784
+tensor(-0.0151) tensor(13992.5449)
+validating on batch45.0 on epoch 2 with loss 13992.5302734375 with evaluation : 0.006594993639737368
+tensor(-0.0076) tensor(14213.5195)
+validating on batch46.0 on epoch 2 with loss 14213.51171875 with evaluation : 0.006547995842993259
+tensor(-0.0132) tensor(14012.5381)
+validating on batch47.0 on epoch 2 with loss 14012.5244140625 with evaluation : 0.006579570006579161
+tensor(-0.0106) tensor(14021.6836)
+validating on batch48.0 on epoch 2 with loss 14021.6728515625 with evaluation : 0.006573192775249481
+tensor(-0.0144) tensor(14475.6045)
+validating on batch49.0 on epoch 2 with loss 14475.58984375 with evaluation : 0.006609395146369934
+tensor(-0.0113) tensor(14575.2500)
+validating on batch50.0 on epoch 2 with loss 14575.23828125 with evaluation : 0.0065976642072200775
+tensor(-0.0157) tensor(14230.9160)
+validating on batch51.0 on epoch 2 with loss 14230.900390625 with evaluation : 0.006687210872769356
+tensor(-0.0082) tensor(13859.4893)
+validating on batch52.0 on epoch 2 with loss 13859.4814453125 with evaluation : 0.006669553462415934
+tensor(-0.0122) tensor(14481.7500)
+validating on batch53.0 on epoch 2 with loss 14481.73828125 with evaluation : 0.006674452684819698
+tensor(-0.0068) tensor(13557.8721)
+validating on batch54.0 on epoch 2 with loss 13557.865234375 with evaluation : 0.0066353376023471355
+tensor(-0.0095) tensor(14357.6748)
+validating on batch55.0 on epoch 2 with loss 14357.6650390625 with evaluation : 0.0065873111598193645
+tensor(-0.0085) tensor(13742.9961)
+validating on batch56.0 on epoch 2 with loss 13742.9873046875 with evaluation : 0.006544511765241623
+tensor(-0.0122) tensor(13676.9531)
+validating on batch57.0 on epoch 2 with loss 13676.94140625 with evaluation : 0.006564532872289419
+tensor(-0.0096) tensor(14177.6895)
+validating on batch58.0 on epoch 2 with loss 14177.6796875 with evaluation : 0.006562240421772003
+tensor(-0.0099) tensor(14292.2695)
+validating on batch59.0 on epoch 2 with loss 14292.259765625 with evaluation : 0.0065462333150208
+tensor(-0.0149) tensor(14441.0469)
+validating on batch60.0 on epoch 2 with loss 14441.0322265625 with evaluation : 0.0065889195539057255
+tensor(-0.0116) tensor(14370.2617)
+validating on batch61.0 on epoch 2 with loss 14370.25 with evaluation : 0.006592978723347187
+tensor(-0.0101) tensor(14804.5820)
+validating on batch62.0 on epoch 2 with loss 14804.572265625 with evaluation : 0.00660023232921958
+tensor(-0.0072) tensor(14740.0918)
+validating on batch63.0 on epoch 2 with loss 14740.0849609375 with evaluation : 0.006572221405804157
+tensor(-0.0101) tensor(13981.8018)
+validating on batch64.0 on epoch 2 with loss 13981.7919921875 with evaluation : 0.0065758018754422665
+tensor(-0.0076) tensor(14316.8789)
+validating on batch65.0 on epoch 2 with loss 14316.87109375 with evaluation : 0.0065559325739741325
+tensor(-0.0142) tensor(14361.1123)
+validating on batch66.0 on epoch 2 with loss 14361.09765625 with evaluation : 0.006560422480106354
+tensor(-0.0148) tensor(14466.0947)
+validating on batch67.0 on epoch 2 with loss 14466.080078125 with evaluation : 0.00659664673730731
+2###13497.329301581325###14156.67219094669###0.0070728459395468235###0.00659664673730731
+
+Nombre de fichiers restants dans /dlocal/run/8167340 : 
+NB_REMIND_FILE = 2 
+
+########################################
+   Comptabilité du calcul 8167340 
+########################################
+$ sacct --format=JobID,Partition,JobName,MaxRSS,MaxVMSize,NTasks,AllocCPUS,Start,End,Elapsed,AveCPU,MinCPU,ReqGRES,AllocGRES,NNodes,ExitCode,State,NodeList -j 8167340
+       JobID  Partition    JobName     MaxRSS  MaxVMSize   NTasks  AllocCPUS               Start                 End    Elapsed     AveCPU     MinCPU      ReqGRES    AllocGRES   NNodes ExitCode      State        NodeList 
+------------ ---------- ---------- ---------- ---------- -------- ---------- ------------------- ------------------- ---------- ---------- ---------- ------------ ------------ -------- -------- ---------- --------------- 
+8167340         gpu_all    ATR.run                                        28 2021-03-25T03:20:32 2021-03-25T03:28:38   00:08:06                              gpu:2        gpu:2        1      0:0 CANCELLED+           my346 
+8167340.bat+                 batch   2255972K    155500K        1         28 2021-03-25T03:20:32 2021-03-25T03:28:39   00:08:07   00:08:01   00:08:01        gpu:2        gpu:2        1     0:15  CANCELLED           my346 
+8167340.ext+                extern          0    107952K        1         28 2021-03-25T03:20:32 2021-03-25T03:28:38   00:08:06   00:00:00   00:00:00        gpu:2        gpu:2        1      0:0  COMPLETED           my346 
+
+Pour plus d'informations sur la comptabilité du calcul, merci de consulter la documentation http://www-tech.criann.fr ou le manuel 'man sacct'
+########################################

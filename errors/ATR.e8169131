@@ -1,0 +1,11 @@
+load compilers/gnu/7.3.0 environment
+load cuda 10.0 environment
+load python3 3.6.9 for Deep Learning environment (with numpy 1.15.1, Keras 2.2.5, scikit-learn 0.21.3, tensorflow-gpu 1.14.0, torch 1.2.0, more details: pip list)
+
+Loading python3-DL/torch/1.2.0-cuda10
+  Loading requirement: compilers/gnu/7.3.0 cuda/10.0
+/var/spool/slurm/job8169131/slurm_script: line 61: python36/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "/home/2017011/reljur01/FBB_UNET/Train_Weakly.py", line 51, in <module>
+    ce = CrossEntropy()
+NameError: name 'CrossEntropy' is not defined

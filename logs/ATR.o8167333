@@ -1,0 +1,17 @@
+/home/2017011/reljur01/FBB_UNET/h5_files/FOLD_3
+
+Nombre de fichiers restants dans /dlocal/run/8167333 : 
+NB_REMIND_FILE = 2 
+
+########################################
+   Comptabilité du calcul 8167333 
+########################################
+$ sacct --format=JobID,Partition,JobName,MaxRSS,MaxVMSize,NTasks,AllocCPUS,Start,End,Elapsed,AveCPU,MinCPU,ReqGRES,AllocGRES,NNodes,ExitCode,State,NodeList -j 8167333
+       JobID  Partition    JobName     MaxRSS  MaxVMSize   NTasks  AllocCPUS               Start                 End    Elapsed     AveCPU     MinCPU      ReqGRES    AllocGRES   NNodes ExitCode      State        NodeList 
+------------ ---------- ---------- ---------- ---------- -------- ---------- ------------------- ------------------- ---------- ---------- ---------- ------------ ------------ -------- -------- ---------- --------------- 
+8167333         gpu_all    ATR.run                                        28 2021-03-25T03:03:49 2021-03-25T03:03:56   00:00:07                              gpu:2        gpu:2        1      1:0     FAILED           my346 
+8167333.bat+                 batch          0    155500K        1         28 2021-03-25T03:03:49 2021-03-25T03:03:56   00:00:07   00:00:00   00:00:00        gpu:2        gpu:2        1      1:0     FAILED           my346 
+8167333.ext+                extern          0    107952K        1         28 2021-03-25T03:03:49 2021-03-25T03:03:58   00:00:09   00:00:00   00:00:00        gpu:2        gpu:2        1      0:0  COMPLETED           my346 
+
+Pour plus d'informations sur la comptabilité du calcul, merci de consulter la documentation http://www-tech.criann.fr ou le manuel 'man sacct'
+########################################

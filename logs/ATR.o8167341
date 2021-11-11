@@ -1,0 +1,653 @@
+/home/2017011/reljur01/FBB_UNET/h5_files/FOLD_3
+model saved-0-10000
+tensor(0.3335)
+training on batch0.0 on epoch 0 with loss -0.016049005091190338 with evaluation : 0.33353960514068604
+model saved-0-10000
+tensor(0.3460)
+training on batch1.0 on epoch 0 with loss -0.01628621108829975 with evaluation : 0.33975523710250854
+model saved-0-10000
+tensor(0.3580)
+training on batch2.0 on epoch 0 with loss -0.03327091038227081 with evaluation : 0.3458240032196045
+model saved-0-10000
+tensor(0.3983)
+training on batch3.0 on epoch 0 with loss -0.030311468988656998 with evaluation : 0.3589399456977844
+model saved-0-10000
+tensor(0.4419)
+training on batch4.0 on epoch 0 with loss -0.06738851964473724 with evaluation : 0.37553995847702026
+model saved-0-10000
+tensor(0.4469)
+training on batch5.0 on epoch 0 with loss -0.07083522528409958 with evaluation : 0.3874358832836151
+model saved-0-10000
+tensor(0.4659)
+training on batch6.0 on epoch 0 with loss -0.060645367950201035 with evaluation : 0.3986475169658661
+model saved-0-10000
+tensor(0.4846)
+training on batch7.0 on epoch 0 with loss -0.0670241191983223 with evaluation : 0.4093974232673645
+model saved-0-10000
+tensor(0.4654)
+training on batch8.0 on epoch 0 with loss -0.04375605657696724 with evaluation : 0.415617972612381
+model saved-0-10000
+tensor(0.5182)
+training on batch9.0 on epoch 0 with loss -0.07897929847240448 with evaluation : 0.4258745312690735
+model saved-0-10000
+tensor(0.4894)
+training on batch10.0 on epoch 0 with loss -0.07334381341934204 with evaluation : 0.43165019154548645
+model saved-0-10000
+tensor(0.4683)
+training on batch11.0 on epoch 0 with loss -0.026057420298457146 with evaluation : 0.4347030818462372
+model saved-0-10000
+tensor(0.5135)
+training on batch12.0 on epoch 0 with loss -0.1100955456495285 with evaluation : 0.44076263904571533
+model saved-0-10000
+tensor(0.5264)
+training on batch13.0 on epoch 0 with loss -0.07352466881275177 with evaluation : 0.44688257575035095
+model saved-0-10000
+tensor(0.5071)
+training on batch14.0 on epoch 0 with loss -0.0511806420981884 with evaluation : 0.4508999288082123
+model saved-0-10000
+tensor(0.5597)
+training on batch15.0 on epoch 0 with loss -0.13716381788253784 with evaluation : 0.4577007293701172
+model saved-0-10000
+tensor(0.5490)
+training on batch16.0 on epoch 0 with loss -0.10214351862668991 with evaluation : 0.46306952834129333
+model saved-0-10000
+tensor(0.5010)
+training on batch17.0 on epoch 0 with loss -0.04812197759747505 with evaluation : 0.4651746153831482
+model saved-0-10000
+tensor(0.5974)
+training on batch18.0 on epoch 0 with loss -0.1368543803691864 with evaluation : 0.4721357524394989
+model saved-0-10000
+tensor(0.5101)
+training on batch19.0 on epoch 0 with loss -0.050746478140354156 with evaluation : 0.4740346372127533
+model saved-0-10000
+tensor(0.5365)
+training on batch20.0 on epoch 0 with loss -0.07565733790397644 with evaluation : 0.47701022028923035
+model saved-0-10000
+tensor(0.6005)
+training on batch21.0 on epoch 0 with loss -0.15787523984909058 with evaluation : 0.4826227128505707
+model saved-0-10000
+tensor(0.5406)
+training on batch22.0 on epoch 0 with loss -0.10661248862743378 with evaluation : 0.48514261841773987
+model saved-0-10000
+tensor(0.6001)
+training on batch23.0 on epoch 0 with loss -0.12690527737140656 with evaluation : 0.48993125557899475
+model saved-0-10000
+tensor(0.5756)
+training on batch24.0 on epoch 0 with loss -0.105816550552845 with evaluation : 0.49335646629333496
+model saved-0-10000
+tensor(0.5794)
+training on batch25.0 on epoch 0 with loss -0.14801020920276642 with evaluation : 0.49666738510131836
+model saved-0-10000
+tensor(0.5480)
+training on batch26.0 on epoch 0 with loss -0.10386832058429718 with evaluation : 0.4985691010951996
+model saved-0-10000
+tensor(0.5762)
+training on batch27.0 on epoch 0 with loss -0.12316375970840454 with evaluation : 0.5013399720191956
+model saved-0-10000
+tensor(0.5121)
+training on batch28.0 on epoch 0 with loss -0.12106776237487793 with evaluation : 0.5017111897468567
+model saved-0-10000
+tensor(0.6183)
+training on batch29.0 on epoch 0 with loss -0.1677425503730774 with evaluation : 0.5055959224700928
+model saved-0-10000
+tensor(0.5788)
+training on batch30.0 on epoch 0 with loss -0.1399969756603241 with evaluation : 0.507956326007843
+model saved-0-10000
+tensor(0.5417)
+training on batch31.0 on epoch 0 with loss -0.10017172247171402 with evaluation : 0.5090110898017883
+model saved-0-10000
+tensor(0.5701)
+training on batch32.0 on epoch 0 with loss -0.10396567732095718 with evaluation : 0.510861337184906
+model saved-0-10000
+tensor(0.5180)
+training on batch33.0 on epoch 0 with loss -0.07465459406375885 with evaluation : 0.511070966720581
+model saved-0-10000
+tensor(0.5422)
+training on batch34.0 on epoch 0 with loss -0.1193673387169838 with evaluation : 0.5119614005088806
+model saved-0-10000
+tensor(0.5775)
+training on batch35.0 on epoch 0 with loss -0.1524011194705963 with evaluation : 0.5137825012207031
+model saved-0-10000
+tensor(0.5628)
+training on batch36.0 on epoch 0 with loss -0.14218313992023468 with evaluation : 0.5151065587997437
+model saved-0-10000
+tensor(0.5302)
+training on batch37.0 on epoch 0 with loss -0.1115633100271225 with evaluation : 0.5155039429664612
+model saved-0-10000
+tensor(0.5675)
+training on batch38.0 on epoch 0 with loss -0.12491228431463242 with evaluation : 0.5168372392654419
+model saved-0-10000
+tensor(0.6284)
+training on batch39.0 on epoch 0 with loss -0.2062179446220398 with evaluation : 0.5196250677108765
+model saved-0-10000
+tensor(0.5223)
+training on batch40.0 on epoch 0 with loss -0.057931169867515564 with evaluation : 0.5196914076805115
+model saved-0-10000
+tensor(0.5242)
+training on batch41.0 on epoch 0 with loss -0.0792112872004509 with evaluation : 0.5197977423667908
+model saved-0-10000
+tensor(0.5717)
+training on batch42.0 on epoch 0 with loss -0.10622186958789825 with evaluation : 0.5210039615631104
+model saved-0-10000
+tensor(0.6434)
+training on batch43.0 on epoch 0 with loss -0.06650939583778381 with evaluation : 0.5237861275672913
+model saved-0-10000
+tensor(0.6371)
+training on batch44.0 on epoch 0 with loss -0.10295310616493225 with evaluation : 0.5263052582740784
+model saved-0-10000
+tensor(0.6175)
+training on batch45.0 on epoch 0 with loss -0.17077156901359558 with evaluation : 0.5282882452011108
+model saved-0-10000
+tensor(0.5705)
+training on batch46.0 on epoch 0 with loss -0.11863616108894348 with evaluation : 0.5291866660118103
+model saved-0-10000
+tensor(0.5680)
+training on batch47.0 on epoch 0 with loss -0.13591119647026062 with evaluation : 0.5299960970878601
+model saved-0-10000
+tensor(0.5866)
+training on batch48.0 on epoch 0 with loss -0.1394987255334854 with evaluation : 0.5311503410339355
+model saved-0-10000
+tensor(0.6892)
+training on batch49.0 on epoch 0 with loss -0.20121045410633087 with evaluation : 0.5343105792999268
+model saved-0-10000
+tensor(0.5437)
+training on batch50.0 on epoch 0 with loss -0.09798730164766312 with evaluation : 0.5344947576522827
+model saved-0-10000
+tensor(0.5309)
+training on batch51.0 on epoch 0 with loss -0.06310496479272842 with evaluation : 0.5344260931015015
+model saved-0-10000
+tensor(0.5771)
+training on batch52.0 on epoch 0 with loss -0.07714096456766129 with evaluation : 0.5352309942245483
+model saved-0-10000
+tensor(0.6485)
+training on batch53.0 on epoch 0 with loss -0.19488254189491272 with evaluation : 0.5373291969299316
+model saved-0-10000
+tensor(0.6551)
+training on batch54.0 on epoch 0 with loss -0.183599591255188 with evaluation : 0.5394705533981323
+model saved-0-10000
+tensor(0.6488)
+training on batch55.0 on epoch 0 with loss -0.20439672470092773 with evaluation : 0.5414236187934875
+model saved-0-10000
+tensor(0.5501)
+training on batch56.0 on epoch 0 with loss -0.10962355881929398 with evaluation : 0.5415765047073364
+model saved-0-10000
+tensor(0.5224)
+training on batch57.0 on epoch 0 with loss -0.1260698139667511 with evaluation : 0.541246235370636
+model saved-0-10000
+tensor(0.5333)
+training on batch58.0 on epoch 0 with loss -0.08841481804847717 with evaluation : 0.5411114692687988
+model saved-0-10000
+tensor(0.5204)
+training on batch59.0 on epoch 0 with loss -0.07002224028110504 with evaluation : 0.540766179561615
+model saved-0-10000
+tensor(0.5704)
+training on batch60.0 on epoch 0 with loss -0.18608424067497253 with evaluation : 0.5412522554397583
+model saved-0-10000
+tensor(0.5860)
+training on batch61.0 on epoch 0 with loss -0.1653224378824234 with evaluation : 0.5419731736183167
+model saved-0-10000
+tensor(0.5699)
+training on batch62.0 on epoch 0 with loss -0.1748535931110382 with evaluation : 0.5424168109893799
+model saved-0-10000
+tensor(0.4709)
+training on batch63.0 on epoch 0 with loss -0.042209193110466 with evaluation : 0.5412988662719727
+model saved-0-10000
+tensor(0.5660)
+training on batch64.0 on epoch 0 with loss -0.17665192484855652 with evaluation : 0.5416796207427979
+model saved-0-10000
+tensor(0.5247)
+training on batch65.0 on epoch 0 with loss -0.07428958266973495 with evaluation : 0.5414223670959473
+model saved-0-10000
+tensor(0.5857)
+training on batch66.0 on epoch 0 with loss -0.07162907719612122 with evaluation : 0.5420837998390198
+model saved-0-10000
+tensor(0.5303)
+training on batch67.0 on epoch 0 with loss -0.09715022891759872 with evaluation : 0.5419106483459473
+model saved-0-10000
+tensor(0.5619)
+training on batch68.0 on epoch 0 with loss -0.22003717720508575 with evaluation : 0.5421996116638184
+model saved-0-10000
+tensor(0.6605)
+training on batch69.0 on epoch 0 with loss -0.18479785323143005 with evaluation : 0.543889582157135
+model saved-0-10000
+tensor(0.6906)
+training on batch70.0 on epoch 0 with loss -0.2174079865217209 with evaluation : 0.5459555983543396
+model saved-0-10000
+tensor(0.5831)
+training on batch71.0 on epoch 0 with loss -0.1467909961938858 with evaluation : 0.5464720129966736
+model saved-0-10000
+tensor(0.6044)
+training on batch72.0 on epoch 0 with loss -0.1501690298318863 with evaluation : 0.5472658276557922
+model saved-0-10000
+tensor(0.5450)
+training on batch73.0 on epoch 0 with loss -0.10355840623378754 with evaluation : 0.5472356081008911
+model saved-0-10000
+tensor(0.6512)
+training on batch74.0 on epoch 0 with loss -0.22533446550369263 with evaluation : 0.5486212968826294
+model saved-0-10000
+tensor(0.4852)
+training on batch75.0 on epoch 0 with loss -0.06641654670238495 with evaluation : 0.5477871894836426
+model saved-0-10000
+tensor(0.5681)
+training on batch76.0 on epoch 0 with loss -0.12594100832939148 with evaluation : 0.5480512976646423
+model saved-0-10000
+tensor(0.6445)
+training on batch77.0 on epoch 0 with loss -0.1588657796382904 with evaluation : 0.5492874383926392
+model saved-0-10000
+tensor(0.5777)
+training on batch78.0 on epoch 0 with loss -0.10100105404853821 with evaluation : 0.549647331237793
+model saved-0-10000
+tensor(0.6002)
+training on batch79.0 on epoch 0 with loss -0.19000452756881714 with evaluation : 0.5502789616584778
+model saved-0-10000
+tensor(0.6382)
+training on batch80.0 on epoch 0 with loss -0.2448544055223465 with evaluation : 0.5513643622398376
+model saved-0-10000
+tensor(0.5465)
+training on batch81.0 on epoch 0 with loss -0.15859921276569366 with evaluation : 0.551304817199707
+model saved-0-10000
+tensor(0.5537)
+training on batch82.0 on epoch 0 with loss -0.1542208045721054 with evaluation : 0.5513337850570679
+model saved-0-10000
+tensor(0.6299)
+training on batch83.0 on epoch 0 with loss -0.17110517621040344 with evaluation : 0.552269458770752
+model saved-0-10000
+tensor(0.6134)
+training on batch84.0 on epoch 0 with loss -0.16718800365924835 with evaluation : 0.5529883503913879
+model saved-0-10000
+tensor(0.5786)
+training on batch85.0 on epoch 0 with loss -0.18829840421676636 with evaluation : 0.5532856583595276
+model saved-0-10000
+tensor(0.6178)
+training on batch86.0 on epoch 0 with loss -0.1729266196489334 with evaluation : 0.5540274381637573
+model saved-0-10000
+tensor(0.5510)
+training on batch87.0 on epoch 0 with loss -0.0971328392624855 with evaluation : 0.5539928078651428
+model saved-0-10000
+tensor(0.5839)
+training on batch88.0 on epoch 0 with loss -0.16853603720664978 with evaluation : 0.554328441619873
+model saved-0-10000
+tensor(0.6655)
+training on batch89.0 on epoch 0 with loss -0.17836236953735352 with evaluation : 0.5555642247200012
+model saved-0-10000
+tensor(0.6190)
+training on batch90.0 on epoch 0 with loss -0.20507171750068665 with evaluation : 0.5562613010406494
+model saved-0-10000
+tensor(0.5225)
+training on batch91.0 on epoch 0 with loss -0.19700303673744202 with evaluation : 0.5558945536613464
+model saved-0-10000
+tensor(0.5976)
+training on batch92.0 on epoch 0 with loss -0.21104925870895386 with evaluation : 0.5563434958457947
+model saved-0-10000
+tensor(0.5066)
+training on batch93.0 on epoch 0 with loss -0.04072950407862663 with evaluation : 0.5558147430419922
+model saved-0-10000
+tensor(0.5304)
+training on batch94.0 on epoch 0 with loss -0.15858371555805206 with evaluation : 0.5555472373962402
+model saved-0-10000
+tensor(0.5377)
+training on batch95.0 on epoch 0 with loss -0.07249666750431061 with evaluation : 0.5553608536720276
+model saved-0-10000
+tensor(0.6380)
+training on batch96.0 on epoch 0 with loss -0.10518769919872284 with evaluation : 0.5562126040458679
+model saved-0-10000
+tensor(0.5584)
+training on batch97.0 on epoch 0 with loss -0.07564271986484528 with evaluation : 0.5562346577644348
+model saved-0-10000
+tensor(0.5463)
+training on batch98.0 on epoch 0 with loss -0.07799515128135681 with evaluation : 0.5561341047286987
+model saved-0-10000
+tensor(0.5436)
+training on batch99.0 on epoch 0 with loss -0.10322969406843185 with evaluation : 0.5560091137886047
+model saved-0-10000
+tensor(0.5523)
+training on batch100.0 on epoch 0 with loss -0.1061382070183754 with evaluation : 0.5559720993041992
+model saved-0-10000
+tensor(0.5149)
+training on batch101.0 on epoch 0 with loss -0.07702604681253433 with evaluation : 0.5555693507194519
+model saved-0-10000
+tensor(0.5352)
+training on batch102.0 on epoch 0 with loss -0.10092470049858093 with evaluation : 0.5553716421127319
+model saved-0-10000
+tensor(0.5685)
+training on batch103.0 on epoch 0 with loss -0.1291111260652542 with evaluation : 0.5554981231689453
+model saved-0-10000
+tensor(0.6122)
+training on batch104.0 on epoch 0 with loss -0.21138039231300354 with evaluation : 0.5560382008552551
+model saved-0-10000
+tensor(0.5833)
+training on batch105.0 on epoch 0 with loss -0.14451360702514648 with evaluation : 0.5562955141067505
+model saved-0-10000
+tensor(0.6426)
+training on batch106.0 on epoch 0 with loss -0.16575759649276733 with evaluation : 0.557101845741272
+model saved-0-10000
+tensor(0.6791)
+training on batch107.0 on epoch 0 with loss -0.14002344012260437 with evaluation : 0.5582314729690552
+model saved-0-10000
+tensor(0.5608)
+training on batch108.0 on epoch 0 with loss -0.1258704662322998 with evaluation : 0.5582554936408997
+model saved-0-10000
+tensor(0.6355)
+training on batch109.0 on epoch 0 with loss -0.149592787027359 with evaluation : 0.558957576751709
+model saved-0-10000
+tensor(0.5541)
+training on batch110.0 on epoch 0 with loss -0.15068742632865906 with evaluation : 0.5589135885238647
+model saved-0-10000
+tensor(0.5405)
+training on batch111.0 on epoch 0 with loss -0.08291241526603699 with evaluation : 0.5587493777275085
+model saved-0-10000
+tensor(0.6139)
+training on batch112.0 on epoch 0 with loss -0.145136296749115 with evaluation : 0.5592374801635742
+model saved-0-10000
+tensor(0.5581)
+training on batch113.0 on epoch 0 with loss -0.10049516707658768 with evaluation : 0.5592270493507385
+model saved-0-10000
+tensor(0.5868)
+training on batch114.0 on epoch 0 with loss -0.16066300868988037 with evaluation : 0.559467077255249
+model saved-0-10000
+tensor(0.5988)
+training on batch115.0 on epoch 0 with loss -0.09039698541164398 with evaluation : 0.5598063468933105
+model saved-0-10000
+tensor(0.5306)
+training on batch116.0 on epoch 0 with loss -0.0740770697593689 with evaluation : 0.5595566630363464
+model saved-0-10000
+tensor(0.7245)
+training on batch117.0 on epoch 0 with loss -0.11908981204032898 with evaluation : 0.5609548687934875
+model saved-0-10000
+tensor(0.6367)
+training on batch118.0 on epoch 0 with loss -0.14578229188919067 with evaluation : 0.5615917444229126
+model saved-0-10000
+tensor(0.6284)
+training on batch119.0 on epoch 0 with loss -0.18268291652202606 with evaluation : 0.5621481537818909
+model saved-0-10000
+tensor(0.6398)
+training on batch120.0 on epoch 0 with loss -0.17573514580726624 with evaluation : 0.5627900958061218
+model saved-0-10000
+tensor(0.6650)
+training on batch121.0 on epoch 0 with loss -0.15345117449760437 with evaluation : 0.5636279582977295
+model saved-0-10000
+tensor(0.6219)
+training on batch122.0 on epoch 0 with loss -0.22108802199363708 with evaluation : 0.5641019940376282
+model saved-0-10000
+tensor(0.6163)
+training on batch123.0 on epoch 0 with loss -0.10052202641963959 with evaluation : 0.5645226240158081
+model saved-0-10000
+tensor(0.5794)
+training on batch124.0 on epoch 0 with loss -0.15130111575126648 with evaluation : 0.5646415948867798
+model saved-0-10000
+tensor(0.6995)
+training on batch125.0 on epoch 0 with loss -0.10850591212511063 with evaluation : 0.5657116770744324
+model saved-0-10000
+tensor(0.5763)
+training on batch126.0 on epoch 0 with loss -0.13365040719509125 with evaluation : 0.5657949447631836
+model saved-0-10000
+tensor(0.6111)
+training on batch127.0 on epoch 0 with loss -0.15987147390842438 with evaluation : 0.5661487579345703
+model saved-0-10000
+tensor(0.6219)
+training on batch128.0 on epoch 0 with loss -0.1710396558046341 with evaluation : 0.5665809512138367
+model saved-0-10000
+tensor(0.7367)
+training on batch129.0 on epoch 0 with loss -0.18580174446105957 with evaluation : 0.5678897500038147
+model saved-0-10000
+tensor(0.5896)
+training on batch130.0 on epoch 0 with loss -0.16283535957336426 with evaluation : 0.5680553913116455
+model saved-0-10000
+tensor(0.6544)
+training on batch131.0 on epoch 0 with loss -0.16353851556777954 with evaluation : 0.5687091946601868
+model saved-0-10000
+tensor(0.5615)
+training on batch132.0 on epoch 0 with loss -0.1264723688364029 with evaluation : 0.5686549544334412
+model saved-0-10000
+tensor(0.5736)
+training on batch133.0 on epoch 0 with loss -0.1589978039264679 with evaluation : 0.5686919689178467
+model saved-0-10000
+tensor(0.5349)
+training on batch134.0 on epoch 0 with loss -0.0948987826704979 with evaluation : 0.5684417486190796
+model saved-0-10000
+tensor(0.6222)
+training on batch135.0 on epoch 0 with loss -0.1890067458152771 with evaluation : 0.5688372254371643
+model saved-0-10000
+tensor(0.5350)
+training on batch136.0 on epoch 0 with loss -0.13518303632736206 with evaluation : 0.5685901641845703
+model saved-0-10000
+tensor(0.7188)
+training on batch137.0 on epoch 0 with loss -0.2605980634689331 with evaluation : 0.5696783661842346
+model saved-0-10000
+tensor(0.6306)
+training on batch138.0 on epoch 0 with loss -0.17774806916713715 with evaluation : 0.570116400718689
+model saved-0-10000
+tensor(0.6047)
+training on batch139.0 on epoch 0 with loss -0.1580495685338974 with evaluation : 0.5703633427619934
+model saved-0-10000
+tensor(0.5492)
+training on batch140.0 on epoch 0 with loss -0.08871927857398987 with evaluation : 0.5702136158943176
+model saved-0-10000
+tensor(0.6233)
+training on batch141.0 on epoch 0 with loss -0.21690113842487335 with evaluation : 0.5705872774124146
+model saved-0-10000
+tensor(0.5478)
+training on batch142.0 on epoch 0 with loss -0.10940662771463394 with evaluation : 0.5704277157783508
+model saved-0-10000
+tensor(0.6664)
+training on batch143.0 on epoch 0 with loss -0.21120652556419373 with evaluation : 0.5710945129394531
+model saved-0-10000
+tensor(0.6009)
+training on batch144.0 on epoch 0 with loss -0.17882142961025238 with evaluation : 0.5712997913360596
+model saved-0-10000
+tensor(0.6190)
+training on batch145.0 on epoch 0 with loss -0.17786788940429688 with evaluation : 0.5716263651847839
+model saved-0-10000
+tensor(0.6955)
+training on batch146.0 on epoch 0 with loss -0.08718876540660858 with evaluation : 0.5724688172340393
+model saved-0-10000
+tensor(0.6070)
+training on batch147.0 on epoch 0 with loss -0.11594520509243011 with evaluation : 0.5727023482322693
+model saved-0-10000
+tensor(0.5507)
+training on batch148.0 on epoch 0 with loss -0.08207964897155762 with evaluation : 0.572554349899292
+model saved-0-10000
+tensor(0.6529)
+training on batch149.0 on epoch 0 with loss -0.21275688707828522 with evaluation : 0.5730897784233093
+model saved-0-10000
+tensor(0.5550)
+training on batch150.0 on epoch 0 with loss -0.13399185240268707 with evaluation : 0.5729699730873108
+model saved-0-10000
+tensor(0.6329)
+training on batch151.0 on epoch 0 with loss -0.1826743483543396 with evaluation : 0.5733644962310791
+model saved-0-10000
+tensor(0.6260)
+training on batch152.0 on epoch 0 with loss -0.182490736246109 with evaluation : 0.5737084150314331
+model saved-0-10000
+tensor(0.5341)
+training on batch153.0 on epoch 0 with loss -0.0745796337723732 with evaluation : 0.5734512805938721
+model saved-0-10000
+tensor(0.5267)
+training on batch154.0 on epoch 0 with loss -0.08560787886381149 with evaluation : 0.5731493830680847
+model saved-0-10000
+tensor(0.5353)
+training on batch155.0 on epoch 0 with loss -0.0892922580242157 with evaluation : 0.5729067325592041
+model saved-0-10000
+tensor(0.7844)
+training on batch156.0 on epoch 0 with loss -0.235856294631958 with evaluation : 0.5742538571357727
+model saved-0-10000
+tensor(0.6322)
+training on batch157.0 on epoch 0 with loss -0.13816411793231964 with evaluation : 0.5746204257011414
+model saved-0-10000
+tensor(0.5683)
+training on batch158.0 on epoch 0 with loss -0.09660021960735321 with evaluation : 0.5745805501937866
+model saved-0-10000
+tensor(0.6396)
+training on batch159.0 on epoch 0 with loss -0.25069481134414673 with evaluation : 0.5749868750572205
+model saved-0-10000
+tensor(0.5590)
+training on batch160.0 on epoch 0 with loss -0.11007510125637054 with evaluation : 0.5748878717422485
+model saved-0-10000
+tensor(0.6099)
+training on batch161.0 on epoch 0 with loss -0.1649622768163681 with evaluation : 0.5751038789749146
+model saved-0-10000
+tensor(0.7004)
+training on batch162.0 on epoch 0 with loss -0.23698002099990845 with evaluation : 0.5758724808692932
+model saved-0-10000
+tensor(0.6515)
+training on batch163.0 on epoch 0 with loss -0.24723181128501892 with evaluation : 0.5763333439826965
+model saved-0-10000
+tensor(0.5628)
+training on batch164.0 on epoch 0 with loss -0.18988865613937378 with evaluation : 0.5762511491775513
+model saved-0-10000
+tensor(0.6876)
+training on batch165.0 on epoch 0 with loss -0.24563507735729218 with evaluation : 0.5769215822219849
+model saved-0-10000
+validating on batch0.0 on epoch 0 with loss -0.27252504229545593 with evaluation : 0.7049376964569092
+model saved-0-10000
+validating on batch1.0 on epoch 0 with loss -0.2850545346736908 with evaluation : 0.7235730886459351
+model saved-0-10000
+validating on batch2.0 on epoch 0 with loss -0.1993691772222519 with evaluation : 0.7068139910697937
+model saved-0-10000
+validating on batch3.0 on epoch 0 with loss -0.19265760481357574 with evaluation : 0.6844056248664856
+model saved-0-10000
+validating on batch4.0 on epoch 0 with loss -0.32274001836776733 with evaluation : 0.6983184814453125
+model saved-0-10000
+validating on batch5.0 on epoch 0 with loss -0.28805336356163025 with evaluation : 0.7012887001037598
+model saved-0-10000
+validating on batch6.0 on epoch 0 with loss -0.28837472200393677 with evaluation : 0.7076980471611023
+model saved-0-10000
+validating on batch7.0 on epoch 0 with loss -0.24510568380355835 with evaluation : 0.7024757862091064
+model saved-0-10000
+validating on batch8.0 on epoch 0 with loss -0.24228620529174805 with evaluation : 0.6980990767478943
+model saved-0-10000
+validating on batch9.0 on epoch 0 with loss -0.21398718655109406 with evaluation : 0.6990165114402771
+model saved-0-10000
+validating on batch10.0 on epoch 0 with loss -0.30923253297805786 with evaluation : 0.6920875906944275
+model saved-0-10000
+validating on batch11.0 on epoch 0 with loss -0.31184008717536926 with evaluation : 0.6947725415229797
+model saved-0-10000
+validating on batch12.0 on epoch 0 with loss -0.2680593729019165 with evaluation : 0.6872396469116211
+model saved-0-10000
+validating on batch13.0 on epoch 0 with loss -0.19116954505443573 with evaluation : 0.6828132271766663
+model saved-0-10000
+validating on batch14.0 on epoch 0 with loss -0.15341603755950928 with evaluation : 0.6764905452728271
+model saved-0-10000
+validating on batch15.0 on epoch 0 with loss -0.2165735363960266 with evaluation : 0.6819435358047485
+model saved-0-10000
+validating on batch16.0 on epoch 0 with loss -0.30031099915504456 with evaluation : 0.684097945690155
+model saved-0-10000
+validating on batch17.0 on epoch 0 with loss -0.19040851294994354 with evaluation : 0.6824901103973389
+model saved-0-10000
+validating on batch18.0 on epoch 0 with loss -0.15426002442836761 with evaluation : 0.6783401370048523
+model saved-0-10000
+validating on batch19.0 on epoch 0 with loss -0.19318467378616333 with evaluation : 0.6766667366027832
+model saved-0-10000
+validating on batch20.0 on epoch 0 with loss -0.14263801276683807 with evaluation : 0.672501802444458
+model saved-0-10000
+validating on batch21.0 on epoch 0 with loss -0.18502573668956757 with evaluation : 0.6719527840614319
+model saved-0-10000
+validating on batch22.0 on epoch 0 with loss -0.242508202791214 with evaluation : 0.6715028285980225
+model saved-0-10000
+validating on batch23.0 on epoch 0 with loss -0.24079181253910065 with evaluation : 0.6713483333587646
+model saved-0-10000
+validating on batch24.0 on epoch 0 with loss -0.28606390953063965 with evaluation : 0.6742591857910156
+model saved-0-10000
+validating on batch25.0 on epoch 0 with loss -0.30869677662849426 with evaluation : 0.6772543787956238
+model saved-0-10000
+validating on batch26.0 on epoch 0 with loss -0.26979100704193115 with evaluation : 0.6753391027450562
+model saved-0-10000
+validating on batch27.0 on epoch 0 with loss -0.14036977291107178 with evaluation : 0.6724706888198853
+model saved-0-10000
+validating on batch28.0 on epoch 0 with loss -0.24167127907276154 with evaluation : 0.6724270582199097
+model saved-0-10000
+validating on batch29.0 on epoch 0 with loss -0.2852690815925598 with evaluation : 0.6742886900901794
+model saved-0-10000
+validating on batch30.0 on epoch 0 with loss -0.25121164321899414 with evaluation : 0.6752659678459167
+model saved-0-10000
+validating on batch31.0 on epoch 0 with loss -0.20104415714740753 with evaluation : 0.6760119795799255
+model saved-0-10000
+validating on batch32.0 on epoch 0 with loss -0.2381703406572342 with evaluation : 0.6791561245918274
+model saved-0-10000
+validating on batch33.0 on epoch 0 with loss -0.22806519269943237 with evaluation : 0.6792328357696533
+model saved-0-10000
+validating on batch34.0 on epoch 0 with loss -0.1579013466835022 with evaluation : 0.6780348420143127
+model saved-0-10000
+validating on batch35.0 on epoch 0 with loss -0.24330510199069977 with evaluation : 0.6769808530807495
+model saved-0-10000
+validating on batch36.0 on epoch 0 with loss -0.25764065980911255 with evaluation : 0.6770169138908386
+model saved-0-10000
+validating on batch37.0 on epoch 0 with loss -0.19849202036857605 with evaluation : 0.6764994263648987
+model saved-0-10000
+validating on batch38.0 on epoch 0 with loss -0.23374229669570923 with evaluation : 0.6762039065361023
+model saved-0-10000
+validating on batch39.0 on epoch 0 with loss -0.2741571068763733 with evaluation : 0.6771565675735474
+model saved-0-10000
+validating on batch40.0 on epoch 0 with loss -0.25734826922416687 with evaluation : 0.6773562431335449
+model saved-0-10000
+validating on batch41.0 on epoch 0 with loss -0.28048527240753174 with evaluation : 0.6804218888282776
+model saved-0-10000
+validating on batch42.0 on epoch 0 with loss -0.2878166735172272 with evaluation : 0.681191086769104
+model saved-0-10000
+validating on batch43.0 on epoch 0 with loss -0.2538325786590576 with evaluation : 0.6811677813529968
+model saved-0-10000
+validating on batch44.0 on epoch 0 with loss -0.2730608880519867 with evaluation : 0.681925356388092
+model saved-0-10000
+validating on batch45.0 on epoch 0 with loss -0.27909111976623535 with evaluation : 0.6805418133735657
+model saved-0-10000
+validating on batch46.0 on epoch 0 with loss -0.23692390322685242 with evaluation : 0.6804158687591553
+model saved-0-10000
+validating on batch47.0 on epoch 0 with loss -0.3135157823562622 with evaluation : 0.6813099980354309
+model saved-0-10000
+validating on batch48.0 on epoch 0 with loss -0.14922380447387695 with evaluation : 0.6804206967353821
+model saved-0-10000
+validating on batch49.0 on epoch 0 with loss -0.24054278433322906 with evaluation : 0.681151807308197
+model saved-0-10000
+validating on batch50.0 on epoch 0 with loss -0.23569437861442566 with evaluation : 0.6815869808197021
+model saved-0-10000
+validating on batch51.0 on epoch 0 with loss -0.2097759246826172 with evaluation : 0.6822640299797058
+model saved-0-10000
+validating on batch52.0 on epoch 0 with loss -0.16257454454898834 with evaluation : 0.6826510429382324
+model saved-0-10000
+validating on batch53.0 on epoch 0 with loss -0.22940850257873535 with evaluation : 0.6831316947937012
+model saved-0-10000
+validating on batch54.0 on epoch 0 with loss -0.28779956698417664 with evaluation : 0.6844653487205505
+model saved-0-10000
+validating on batch55.0 on epoch 0 with loss -0.16016961634159088 with evaluation : 0.6830822825431824
+model saved-0-10000
+validating on batch56.0 on epoch 0 with loss -0.24239236116409302 with evaluation : 0.6835770606994629
+model saved-0-10000
+validating on batch57.0 on epoch 0 with loss -0.14087197184562683 with evaluation : 0.6838862895965576
+model saved-0-10000
+validating on batch58.0 on epoch 0 with loss -0.19046981632709503 with evaluation : 0.6830887794494629
+model saved-0-10000
+validating on batch59.0 on epoch 0 with loss -0.17890040576457977 with evaluation : 0.6818729043006897
+model saved-0-10000
+validating on batch60.0 on epoch 0 with loss -0.20769912004470825 with evaluation : 0.6804884076118469
+model saved-0-10000
+validating on batch61.0 on epoch 0 with loss -0.15929901599884033 with evaluation : 0.6810045838356018
+model saved-0-10000
+validating on batch62.0 on epoch 0 with loss -0.18392319977283478 with evaluation : 0.6797338724136353
+model saved-0-10000
+validating on batch63.0 on epoch 0 with loss -0.2532920241355896 with evaluation : 0.6804996132850647
+model saved-0-10000
+validating on batch64.0 on epoch 0 with loss -0.29907938838005066 with evaluation : 0.6813529133796692
+model saved-0-10000
+validating on batch65.0 on epoch 0 with loss -0.2784491181373596 with evaluation : 0.6811334490776062
+model saved-0-10000
+validating on batch66.0 on epoch 0 with loss -0.230173259973526 with evaluation : 0.6806249618530273
+model saved-0-10000
+validating on batch67.0 on epoch 0 with loss -0.18633952736854553 with evaluation : 0.6802502274513245
+0###-0.13230682465146823###-0.2334311343729496###0.5769215822219849###0.6802502274513245
+model saved-0--0.2334311343729496
+
+Nombre de fichiers restants dans /dlocal/run/8167341 : 
+NB_REMIND_FILE = 2 
+
+########################################
+   Comptabilité du calcul 8167341 
+########################################
+$ sacct --format=JobID,Partition,JobName,MaxRSS,MaxVMSize,NTasks,AllocCPUS,Start,End,Elapsed,AveCPU,MinCPU,ReqGRES,AllocGRES,NNodes,ExitCode,State,NodeList -j 8167341
+       JobID  Partition    JobName     MaxRSS  MaxVMSize   NTasks  AllocCPUS               Start                 End    Elapsed     AveCPU     MinCPU      ReqGRES    AllocGRES   NNodes ExitCode      State        NodeList 
+------------ ---------- ---------- ---------- ---------- -------- ---------- ------------------- ------------------- ---------- ---------- ---------- ------------ ------------ -------- -------- ---------- --------------- 
+8167341         gpu_all    ATR.run                                        28 2021-03-25T03:29:02 2021-03-25T03:30:57   00:01:55                              gpu:2        gpu:2        1      1:0     FAILED           my346 
+8167341.bat+                 batch   2107924K    155500K        1         28 2021-03-25T03:29:02 2021-03-25T03:30:57   00:01:55   00:01:25   00:01:25        gpu:2        gpu:2        1      1:0     FAILED           my346 
+8167341.ext+                extern          0    107952K        1         28 2021-03-25T03:29:02 2021-03-25T03:30:57   00:01:55   00:00:00   00:00:00        gpu:2        gpu:2        1      0:0  COMPLETED           my346 
+
+Pour plus d'informations sur la comptabilité du calcul, merci de consulter la documentation http://www-tech.criann.fr ou le manuel 'man sacct'
+########################################

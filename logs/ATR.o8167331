@@ -1,0 +1,16 @@
+
+Nombre de fichiers restants dans /dlocal/run/8167331 : 
+NB_REMIND_FILE = 2 
+
+########################################
+   Comptabilité du calcul 8167331 
+########################################
+$ sacct --format=JobID,Partition,JobName,MaxRSS,MaxVMSize,NTasks,AllocCPUS,Start,End,Elapsed,AveCPU,MinCPU,ReqGRES,AllocGRES,NNodes,ExitCode,State,NodeList -j 8167331
+       JobID  Partition    JobName     MaxRSS  MaxVMSize   NTasks  AllocCPUS               Start                 End    Elapsed     AveCPU     MinCPU      ReqGRES    AllocGRES   NNodes ExitCode      State        NodeList 
+------------ ---------- ---------- ---------- ---------- -------- ---------- ------------------- ------------------- ---------- ---------- ---------- ------------ ------------ -------- -------- ---------- --------------- 
+8167331         gpu_all    ATR.run                                        28 2021-03-25T03:01:28 2021-03-25T03:01:39   00:00:11                              gpu:2        gpu:2        1      0:0 CANCELLED+           my349 
+8167331.bat+                 batch          0    155500K        1         28 2021-03-25T03:01:28 2021-03-25T03:01:40   00:00:12   00:00:00   00:00:00        gpu:2        gpu:2        1     0:15  CANCELLED           my349 
+8167331.ext+                extern          0    107952K        1         28 2021-03-25T03:01:28 2021-03-25T03:01:39   00:00:11   00:00:00   00:00:00        gpu:2        gpu:2        1      0:0  COMPLETED           my349 
+
+Pour plus d'informations sur la comptabilité du calcul, merci de consulter la documentation http://www-tech.criann.fr ou le manuel 'man sacct'
+########################################

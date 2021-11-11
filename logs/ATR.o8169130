@@ -1,0 +1,18 @@
+/home/2017011/reljur01/FBB_UNET/h5_files/FOLD_3
+hi there torch.Size([4, 320, 320]) torch.Size([4, 320, 320])
+
+Nombre de fichiers restants dans /dlocal/run/8169130 : 
+NB_REMIND_FILE = 2 
+
+########################################
+   Comptabilité du calcul 8169130 
+########################################
+$ sacct --format=JobID,Partition,JobName,MaxRSS,MaxVMSize,NTasks,AllocCPUS,Start,End,Elapsed,AveCPU,MinCPU,ReqGRES,AllocGRES,NNodes,ExitCode,State,NodeList -j 8169130
+       JobID  Partition    JobName     MaxRSS  MaxVMSize   NTasks  AllocCPUS               Start                 End    Elapsed     AveCPU     MinCPU      ReqGRES    AllocGRES   NNodes ExitCode      State        NodeList 
+------------ ---------- ---------- ---------- ---------- -------- ---------- ------------------- ------------------- ---------- ---------- ---------- ------------ ------------ -------- -------- ---------- --------------- 
+8169130         gpu_all    ATR.run                                        28 2021-03-25T12:05:17 2021-03-25T12:05:29   00:00:12                              gpu:2        gpu:2        1      1:0     FAILED           my353 
+8169130.bat+                 batch          0    155500K        1         28 2021-03-25T12:05:17 2021-03-25T12:05:29   00:00:12   00:00:00   00:00:00        gpu:2        gpu:2        1      1:0     FAILED           my353 
+8169130.ext+                extern          0    107952K        1         28 2021-03-25T12:05:17 2021-03-25T12:05:29   00:00:12   00:00:00   00:00:00        gpu:2        gpu:2        1      0:0  COMPLETED           my353 
+
+Pour plus d'informations sur la comptabilité du calcul, merci de consulter la documentation http://www-tech.criann.fr ou le manuel 'man sacct'
+########################################
